@@ -5,6 +5,11 @@ INPUT_FILE = 'data/raw_financials_data.csv'
 OUTPUT_FILE = 'data/final_submission_financials.csv'
 
 def quality_assurance():
+    """
+    Cleans invalid entries (Revenue <= 0),
+    Verifies project requirements (100-500),
+    Exports dataset for submission.
+    """
     if not os.path.exists(INPUT_FILE):
         print(f"Error: {INPUT_FILE} missing. Please run 2_extract_financials.py first.")
         return
