@@ -3,7 +3,7 @@
 ## Overview
 This project is a data engineering case study submission. It automates the extraction of financial data for S&P 500 companies using Python. 
 
-The pipeline identifies public companies, extracts their last 3 years of financial reports (Revenue, Net Income, Gross Profit) via the Yahoo Finance API, and transforms the data into a structured CSV format.
+The pipeline identifies public companies, extracts their last 3 years of financial reports (Revenue, Net Income, Gross Profit, Operating Income, Pretax Income) via the Yahoo Finance API, and transforms the data into a structured CSV format.
 
 ## Project Structure
 * `1_fetch_tickers.py`: Scrapes and cleans the list of S&P 500 companies from Wikipedia.
@@ -32,13 +32,15 @@ The pipeline identifies public companies, extracts their last 3 years of financi
 3. The final output will be available at `data/final_submission_financials.csv`.
 
 ## Data Dictionary
-| Column        | Description                                     |
-| ------------- | ----------------------------------------------- |
-| Symbol        | Stock ticker symbol (e.g., MMM)                 |
-| Company Name  | Full legal name of the company                  |
-| Country       | Headquarters location                           |
-| Industry      | Industry classification                         |
-| Year          | Fiscal year of the financial report             |
-| Total Revenue | Revenue figure in USD                           |
-| Net Income    | (Optional KPI) Net profit/loss                  |
-| Gross Profit  | (Optional KPI) Revenue minus cost of goods sold |
+| Column           | Description                                       |
+| -------------    | -----------------------------------------------   |
+| Symbol           | Stock ticker symbol (e.g., MMM)                   |
+| Company Name     | Full legal name of the company                    |
+| Country          | Headquarters location                             |
+| Industry         | Industry classification                           |
+| Year             | Fiscal year of the financial report               |
+| Total Revenue    | Revenue figure                                    |
+| Net Income       | (Optional KPI) Net profit or loss                 |
+| Gross Profit     | (Optional KPI) Revenue minus cost of goods sold   |
+| Operating Income | (Optional KPI) Profit from business operations    |
+| Pretax Income    | (Optional KPI) Income before tax deduction        |
