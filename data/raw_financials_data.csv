@@ -1,601 +1,601 @@
-Symbol,Company Name,Country,Industry,Year,Currency,Total Revenue,Net Income,Gross Profit
-MMM,3M Company,United States,Conglomerates,2024,USD,24575000000.0,4173000000.0,10128000000.0
-MMM,3M Company,United States,Conglomerates,2023,USD,24610000000.0,-6995000000.0,9627000000.0
-MMM,3M Company,United States,Conglomerates,2022,USD,34229000000.0,5777000000.0,14997000000.0
-AOS,A. O. Smith Corporation,United States,Specialty Industrial Machinery,2024,USD,3818100000.0,533600000.0,1456100000.0
-AOS,A. O. Smith Corporation,United States,Specialty Industrial Machinery,2023,USD,3852800000.0,556600000.0,1484800000.0
-AOS,A. O. Smith Corporation,United States,Specialty Industrial Machinery,2022,USD,3753900000.0,235700000.0,1329600000.0
-ABT,Abbott Laboratories,United States,Medical Devices,2024,USD,41950000000.0,13402000000.0,23244000000.0
-ABT,Abbott Laboratories,United States,Medical Devices,2023,USD,40109000000.0,5723000000.0,22134000000.0
-ABT,Abbott Laboratories,United States,Medical Devices,2022,USD,43653000000.0,6933000000.0,24511000000.0
-ABBV,AbbVie Inc.,United States,Drug Manufacturers - General,2024,USD,56334000000.0,4278000000.0,39430000000.0
-ABBV,AbbVie Inc.,United States,Drug Manufacturers - General,2023,USD,54318000000.0,4863000000.0,33903000000.0
-ABBV,AbbVie Inc.,United States,Drug Manufacturers - General,2022,USD,58054000000.0,11836000000.0,40640000000.0
-ACN,Accenture plc,Ireland,Information Technology Services,2025,USD,69672977000.0,7678433000.0,22235401000.0
-ACN,Accenture plc,Ireland,Information Technology Services,2024,USD,64896464000.0,7264787000.0,21162317000.0
-ACN,Accenture plc,Ireland,Information Technology Services,2023,USD,64111745000.0,6871557000.0,20731607000.0
-ADBE,Adobe Inc.,United States,Software - Application,2024,USD,21505000000.0,5560000000.0,19147000000.0
-ADBE,Adobe Inc.,United States,Software - Application,2023,USD,19409000000.0,5428000000.0,17055000000.0
-ADBE,Adobe Inc.,United States,Software - Application,2022,USD,17606000000.0,4756000000.0,15441000000.0
-AMD,"Advanced Micro Devices, Inc.",United States,Semiconductors,2024,USD,25785000000.0,1641000000.0,12725000000.0
-AMD,"Advanced Micro Devices, Inc.",United States,Semiconductors,2023,USD,22680000000.0,854000000.0,10460000000.0
-AMD,"Advanced Micro Devices, Inc.",United States,Semiconductors,2022,USD,23601000000.0,1320000000.0,10603000000.0
-AES,The AES Corporation,United States,Utilities - Diversified,2024,USD,12278000000.0,1679000000.0,2314000000.0
-AES,The AES Corporation,United States,Utilities - Diversified,2023,USD,12668000000.0,249000000.0,2504000000.0
-AES,The AES Corporation,United States,Utilities - Diversified,2022,USD,12617000000.0,-546000000.0,2548000000.0
-AFL,Aflac Incorporated,United States,Insurance - Life,2024,USD,19128000000.0,5443000000.0,
-AFL,Aflac Incorporated,United States,Insurance - Life,2023,USD,18841000000.0,4659000000.0,
-AFL,Aflac Incorporated,United States,Insurance - Life,2022,USD,19151000000.0,4418000000.0,
-A,"Agilent Technologies, Inc.",United States,Diagnostics & Research,2024,USD,6510000000.0,1289000000.0,3535000000.0
-A,"Agilent Technologies, Inc.",United States,Diagnostics & Research,2023,USD,6833000000.0,1240000000.0,3465000000.0
-A,"Agilent Technologies, Inc.",United States,Diagnostics & Research,2022,USD,6848000000.0,1254000000.0,3722000000.0
-APD,"Air Products and Chemicals, Inc.",United States,Specialty Chemicals,2025,USD,12037300000.0,-394500000.0,3781300000.0
-APD,"Air Products and Chemicals, Inc.",United States,Specialty Chemicals,2024,USD,12100600000.0,3828200000.0,3931900000.0
-APD,"Air Products and Chemicals, Inc.",United States,Specialty Chemicals,2023,USD,12600000000.0,2300200000.0,3767000000.0
-ABNB,"Airbnb, Inc.",United States,Travel Services,2024,USD,11102000000.0,2648000000.0,9224000000.0
-ABNB,"Airbnb, Inc.",United States,Travel Services,2023,USD,9917000000.0,4792000000.0,8214000000.0
-ABNB,"Airbnb, Inc.",United States,Travel Services,2022,USD,8399000000.0,1893000000.0,6900000000.0
-AKAM,"Akamai Technologies, Inc.",United States,Software - Infrastructure,2024,USD,3991168000.0,504918000.0,2370375000.0
-AKAM,"Akamai Technologies, Inc.",United States,Software - Infrastructure,2023,USD,3811920000.0,547629000.0,2300857000.0
-AKAM,"Akamai Technologies, Inc.",United States,Software - Infrastructure,2022,USD,3616654000.0,523672000.0,2232835000.0
-ALB,Albemarle Corporation,United States,Specialty Chemicals,2024,USD,5377526000.0,-1179449000.0,62539000.0
-ALB,Albemarle Corporation,United States,Specialty Chemicals,2023,USD,9617203000.0,1573476000.0,1185909000.0
-ALB,Albemarle Corporation,United States,Specialty Chemicals,2022,USD,7320104000.0,2689816000.0,3074587000.0
-ARE,"Alexandria Real Estate Equities, Inc.",United States,REIT - Office,2024,USD,3049706000.0,322949000.0,2140441000.0
-ARE,"Alexandria Real Estate Equities, Inc.",United States,REIT - Office,2023,USD,2842456000.0,103639000.0,1983276000.0
-ARE,"Alexandria Real Estate Equities, Inc.",United States,REIT - Office,2022,USD,2576040000.0,521660000.0,1792887000.0
-ALGN,"Align Technology, Inc.",United States,Medical Instruments & Supplies,2024,USD,3999012000.0,421362000.0,2799159000.0
-ALGN,"Align Technology, Inc.",United States,Medical Instruments & Supplies,2023,USD,3862260000.0,445053000.0,2706863000.0
-ALGN,"Align Technology, Inc.",United States,Medical Instruments & Supplies,2022,USD,3734635000.0,361573000.0,2633775000.0
-ALLE,Allegion plc,Ireland,Security & Protection Services,2024,USD,3772200000.0,597500000.0,1668500000.0
-ALLE,Allegion plc,Ireland,Security & Protection Services,2023,USD,3650800000.0,540400000.0,1581500000.0
-ALLE,Allegion plc,Ireland,Security & Protection Services,2022,USD,3271900000.0,458000000.0,1322400000.0
-LNT,Alliant Energy Corporation,United States,Utilities - Regulated Electric,2024,USD,3981000000.0,690000000.0,1780000000.0
-LNT,Alliant Energy Corporation,United States,Utilities - Regulated Electric,2023,USD,4027000000.0,703000000.0,1734000000.0
-LNT,Alliant Energy Corporation,United States,Utilities - Regulated Electric,2022,USD,4205000000.0,686000000.0,1709000000.0
-ALL,The Allstate Corporation,United States,Insurance - Property & Casualty,2024,USD,63515000000.0,4667000000.0,
-ALL,The Allstate Corporation,United States,Insurance - Property & Casualty,2023,USD,56591000000.0,-188000000.0,
-ALL,The Allstate Corporation,United States,Insurance - Property & Casualty,2022,USD,50617000000.0,-1289000000.0,
-GOOGL,Alphabet Inc.,United States,Internet Content & Information,2024,USD,350018000000.0,100118000000.0,203712000000.0
-GOOGL,Alphabet Inc.,United States,Internet Content & Information,2023,USD,307394000000.0,73795000000.0,174062000000.0
-GOOGL,Alphabet Inc.,United States,Internet Content & Information,2022,USD,282836000000.0,59972000000.0,156633000000.0
-GOOG,Alphabet Inc.,United States,Internet Content & Information,2024,USD,350018000000.0,100118000000.0,203712000000.0
-GOOG,Alphabet Inc.,United States,Internet Content & Information,2023,USD,307394000000.0,73795000000.0,174062000000.0
-GOOG,Alphabet Inc.,United States,Internet Content & Information,2022,USD,282836000000.0,59972000000.0,156633000000.0
-MO,"Altria Group, Inc.",United States,Tobacco,2024,USD,20444000000.0,11264000000.0,14367000000.0
-MO,"Altria Group, Inc.",United States,Tobacco,2023,USD,20502000000.0,8130000000.0,14284000000.0
-MO,"Altria Group, Inc.",United States,Tobacco,2022,USD,20688000000.0,5764000000.0,14246000000.0
-AMZN,"Amazon.com, Inc.",United States,Internet Retail,2024,USD,637959000000.0,59248000000.0,311671000000.0
-AMZN,"Amazon.com, Inc.",United States,Internet Retail,2023,USD,574785000000.0,30425000000.0,270046000000.0
-AMZN,"Amazon.com, Inc.",United States,Internet Retail,2022,USD,513983000000.0,-2722000000.0,225152000000.0
-AMCR,Amcor plc,Switzerland,Packaging & Containers,2025,USD,15009000000.0,511000000.0,2834000000.0
-AMCR,Amcor plc,Switzerland,Packaging & Containers,2024,USD,13640000000.0,730000000.0,2712000000.0
-AMCR,Amcor plc,Switzerland,Packaging & Containers,2023,USD,14694000000.0,1048000000.0,2725000000.0
-AEE,Ameren Corporation,United States,Utilities - Regulated Electric,2024,USD,7623000000.0,1182000000.0,3653000000.0
-AEE,Ameren Corporation,United States,Utilities - Regulated Electric,2023,USD,7500000000.0,1152000000.0,3467000000.0
-AEE,Ameren Corporation,United States,Utilities - Regulated Electric,2022,USD,7957000000.0,1074000000.0,3343000000.0
-AEP,"American Electric Power Company, Inc.",United States,Utilities - Regulated Electric,2024,USD,19721300000.0,2967100000.0,12459900000.0
-AEP,"American Electric Power Company, Inc.",United States,Utilities - Regulated Electric,2023,USD,18982300000.0,2208100000.0,11127700000.0
-AEP,"American Electric Power Company, Inc.",United States,Utilities - Regulated Electric,2022,USD,19639500000.0,2307200000.0,11292200000.0
-AXP,American Express Company,United States,Credit Services,2024,USD,65949000000.0,10129000000.0,
-AXP,American Express Company,United States,Credit Services,2023,USD,60515000000.0,8374000000.0,
-AXP,American Express Company,United States,Credit Services,2022,USD,52862000000.0,7514000000.0,
-AIG,"American International Group, Inc.",United States,Insurance - Diversified,2024,USD,27270000000.0,-1404000000.0,
-AIG,"American International Group, Inc.",United States,Insurance - Diversified,2023,USD,27959000000.0,3643000000.0,
-AIG,"American International Group, Inc.",United States,Insurance - Diversified,2022,USD,29975000000.0,10227000000.0,
-AMT,American Tower Corporation,United States,REIT - Specialty,2024,USD,10127200000.0,2255000000.0,7552800000.0
-AMT,American Tower Corporation,United States,REIT - Specialty,2023,USD,10012200000.0,1483300000.0,7450700000.0
-AMT,American Tower Corporation,United States,REIT - Specialty,2022,USD,9645400000.0,1765800000.0,7076200000.0
-AWK,"American Water Works Company, Inc.",United States,Utilities - Regulated Water,2024,USD,4684000000.0,1051000000.0,2826000000.0
-AWK,"American Water Works Company, Inc.",United States,Utilities - Regulated Water,2023,USD,4234000000.0,944000000.0,2514000000.0
-AWK,"American Water Works Company, Inc.",United States,Utilities - Regulated Water,2022,USD,3792000000.0,820000000.0,2203000000.0
-AMP,"Ameriprise Financial, Inc.",United States,Asset Management,2024,USD,17264000000.0,3401000000.0,
-AMP,"Ameriprise Financial, Inc.",United States,Asset Management,2023,USD,15535000000.0,2556000000.0,
-AMP,"Ameriprise Financial, Inc.",United States,Asset Management,2022,USD,14258000000.0,3149000000.0,
-AME,"AMETEK, Inc.",United States,Specialty Industrial Machinery,2024,USD,6941180000.0,1376124000.0,2476467000.0
-AME,"AMETEK, Inc.",United States,Specialty Industrial Machinery,2023,USD,6596950000.0,1313188000.0,2384465000.0
-AME,"AMETEK, Inc.",United States,Specialty Industrial Machinery,2022,USD,6150530000.0,1159542000.0,2145269000.0
-AMGN,Amgen Inc.,United States,Drug Manufacturers - General,2024,USD,33424000000.0,4090000000.0,20566000000.0
-AMGN,Amgen Inc.,United States,Drug Manufacturers - General,2023,USD,28190000000.0,6717000000.0,19739000000.0
-AMGN,Amgen Inc.,United States,Drug Manufacturers - General,2022,USD,26323000000.0,6552000000.0,19917000000.0
-APH,Amphenol Corporation,United States,Electronic Components,2024,USD,15222700000.0,2424000000.0,5139700000.0
-APH,Amphenol Corporation,United States,Electronic Components,2023,USD,12554700000.0,1928000000.0,4084100000.0
-APH,Amphenol Corporation,United States,Electronic Components,2022,USD,12623000000.0,1902300000.0,4028200000.0
-ADI,"Analog Devices, Inc.",United States,Semiconductors,2025,USD,11019707000.0,2267342000.0,6773478000.0
-ADI,"Analog Devices, Inc.",United States,Semiconductors,2024,USD,9427157000.0,1635273000.0,5381343000.0
-ADI,"Analog Devices, Inc.",United States,Semiconductors,2023,USD,12305539000.0,3314579000.0,7877218000.0
-AON,Aon plc,Ireland,Insurance Brokers,2024,USD,15698000000.0,2654000000.0,7415000000.0
-AON,Aon plc,Ireland,Insurance Brokers,2023,USD,13376000000.0,2564000000.0,6474000000.0
-AON,Aon plc,Ireland,Insurance Brokers,2022,USD,12479000000.0,2589000000.0,6002000000.0
-APA,APA Corporation,United States,Oil & Gas E&P,2024,USD,9737000000.0,804000000.0,4302000000.0
-APA,APA Corporation,United States,Oil & Gas E&P,2023,USD,8279000000.0,2855000000.0,4227000000.0
-APA,APA Corporation,United States,Oil & Gas E&P,2022,USD,11075000000.0,3604000000.0,6255000000.0
-APO,"Apollo Global Management, Inc.",United States,Asset Management,2024,USD,26114000000.0,4577000000.0,24974000000.0
-APO,"Apollo Global Management, Inc.",United States,Asset Management,2023,USD,32644000000.0,5047000000.0,31617000000.0
-APO,"Apollo Global Management, Inc.",United States,Asset Management,2022,USD,10968000000.0,-1961000000.0,10041000000.0
-AAPL,Apple Inc.,United States,Consumer Electronics,2025,USD,416161000000.0,112010000000.0,195201000000.0
-AAPL,Apple Inc.,United States,Consumer Electronics,2024,USD,391035000000.0,93736000000.0,180683000000.0
-AAPL,Apple Inc.,United States,Consumer Electronics,2023,USD,383285000000.0,96995000000.0,169148000000.0
-AMAT,"Applied Materials, Inc.",United States,Semiconductor Equipment & Materials,2025,USD,,,
-AMAT,"Applied Materials, Inc.",United States,Semiconductor Equipment & Materials,2024,USD,27176000000.0,7177000000.0,12897000000.0
-AMAT,"Applied Materials, Inc.",United States,Semiconductor Equipment & Materials,2023,USD,26517000000.0,6856000000.0,12384000000.0
-APP,AppLovin Corporation,United States,Advertising Agencies,2024,USD,4709248000.0,1579776000.0,3542442000.0
-APP,AppLovin Corporation,United States,Advertising Agencies,2023,USD,3283087000.0,356711000.0,2223896000.0
-APP,AppLovin Corporation,United States,Advertising Agencies,2022,USD,2817058000.0,-192746000.0,1560993000.0
-APTV,Aptiv PLC,Switzerland,Auto Parts,2024,USD,19713000000.0,1787000000.0,3711000000.0
-APTV,Aptiv PLC,Switzerland,Auto Parts,2023,USD,20051000000.0,2938000000.0,3439000000.0
-APTV,Aptiv PLC,Switzerland,Auto Parts,2022,USD,17489000000.0,594000000.0,2635000000.0
-ACGL,Arch Capital Group Ltd.,Bermuda,Insurance - Diversified,2024,USD,16930000000.0,4312000000.0,
-ACGL,Arch Capital Group Ltd.,Bermuda,Insurance - Diversified,2023,USD,13297000000.0,4443000000.0,
-ACGL,Arch Capital Group Ltd.,Bermuda,Insurance - Diversified,2022,USD,9613000000.0,1476000000.0,
-ADM,Archer-Daniels-Midland Company,United States,Farm Products,2024,USD,85530000000.0,1800000000.0,5778000000.0
-ADM,Archer-Daniels-Midland Company,United States,Farm Products,2023,USD,93935000000.0,3483000000.0,7513000000.0
-ADM,Archer-Daniels-Midland Company,United States,Farm Products,2022,USD,101556000000.0,4340000000.0,7570000000.0
-ANET,Arista Networks Inc,United States,Computer Hardware,2024,USD,7003146000.0,2852054000.0,4491303000.0
-ANET,Arista Networks Inc,United States,Computer Hardware,2023,USD,5860168000.0,2087321000.0,3630281000.0
-ANET,Arista Networks Inc,United States,Computer Hardware,2022,USD,4381310000.0,1352446000.0,2675696000.0
-AJG,Arthur J. Gallagher & Co.,United States,Insurance Brokers,2024,USD,11554900000.0,1462700000.0,4878300000.0
-AJG,Arthur J. Gallagher & Co.,United States,Insurance Brokers,2023,USD,10071900000.0,969500000.0,4245300000.0
-AJG,Arthur J. Gallagher & Co.,United States,Insurance Brokers,2022,USD,8550600000.0,1114200000.0,3597400000.0
-AIZ,"Assurant, Inc.",United States,Insurance - Property & Casualty,2024,USD,11877500000.0,760200000.0,
-AIZ,"Assurant, Inc.",United States,Insurance - Property & Casualty,2023,USD,11131600000.0,642500000.0,
-AIZ,"Assurant, Inc.",United States,Insurance - Property & Casualty,2022,USD,10193000000.0,276600000.0,
-T,AT&T Inc.,United States,Telecom Services,2024,USD,122336000000.0,10948000000.0,73115000000.0
-T,AT&T Inc.,United States,Telecom Services,2023,USD,122428000000.0,14400000000.0,72305000000.0
-T,AT&T Inc.,United States,Telecom Services,2022,USD,120741000000.0,-8524000000.0,69893000000.0
-ATO,Atmos Energy Corporation,United States,Utilities - Regulated Gas,2025,USD,4702755000.0,1198754000.0,2733759000.0
-ATO,Atmos Energy Corporation,United States,Utilities - Regulated Gas,2024,USD,4165187000.0,1042895000.0,2412357000.0
-ATO,Atmos Energy Corporation,United States,Utilities - Regulated Gas,2023,USD,4275357000.0,885862000.0,2058278000.0
-ADSK,"Autodesk, Inc.",United States,Software - Application,2025,USD,6131000000.0,1112000000.0,5553000000.0
-ADSK,"Autodesk, Inc.",United States,Software - Application,2024,USD,5497000000.0,906000000.0,4986000000.0
-ADSK,"Autodesk, Inc.",United States,Software - Application,2023,USD,5005000000.0,823000000.0,4525000000.0
-ADP,"Automatic Data Processing, Inc.",United States,Software - Application,2025,USD,20560900000.0,4079700000.0,9463600000.0
-ADP,"Automatic Data Processing, Inc.",United States,Software - Application,2024,USD,19202600000.0,3752000000.0,8725900000.0
-ADP,"Automatic Data Processing, Inc.",United States,Software - Application,2023,USD,18012200000.0,3412000000.0,8058800000.0
-AZO,"AutoZone, Inc.",United States,Auto Parts,2025,USD,18938717000.0,2498247000.0,9966474000.0
-AZO,"AutoZone, Inc.",United States,Auto Parts,2024,USD,18490268000.0,2662427000.0,9817052000.0
-AZO,"AutoZone, Inc.",United States,Auto Parts,2023,USD,17457209000.0,2528426000.0,9070422000.0
-AVB,"AvalonBay Communities, Inc.",United States,REIT - Residential,2024,USD,2913757000.0,1081994000.0,1840300000.0
-AVB,"AvalonBay Communities, Inc.",United States,REIT - Residential,2023,USD,2767909000.0,928825000.0,1779777000.0
-AVB,"AvalonBay Communities, Inc.",United States,REIT - Residential,2022,USD,2593446000.0,1136775000.0,1674332000.0
-AVY,Avery Dennison Corporation,United States,Packaging & Containers,2024,USD,8755700000.0,704900000.0,2530700000.0
-AVY,Avery Dennison Corporation,United States,Packaging & Containers,2023,USD,8364300000.0,503000000.0,2277500000.0
-AVY,Avery Dennison Corporation,United States,Packaging & Containers,2022,USD,9039300000.0,757100000.0,2404200000.0
-AXON,"Axon Enterprise, Inc.",United States,Aerospace & Defense,2024,USD,2082526000.0,377034000.0,1241380000.0
-AXON,"Axon Enterprise, Inc.",United States,Aerospace & Defense,2023,USD,1560699000.0,175783000.0,955453000.0
-AXON,"Axon Enterprise, Inc.",United States,Aerospace & Defense,2022,USD,1187143000.0,146930000.0,726113000.0
-BKR,Baker Hughes Company,United States,Oil & Gas Equipment & Services,2024,USD,27829000000.0,2979000000.0,5840000000.0
-BKR,Baker Hughes Company,United States,Oil & Gas Equipment & Services,2023,USD,25506000000.0,1943000000.0,5251000000.0
-BKR,Baker Hughes Company,United States,Oil & Gas Equipment & Services,2022,USD,21156000000.0,-601000000.0,4400000000.0
-BALL,Ball Corporation,United States,Packaging & Containers,2024,USD,11795000000.0,4008000000.0,2441000000.0
-BALL,Ball Corporation,United States,Packaging & Containers,2023,USD,12062000000.0,707000000.0,2308000000.0
-BALL,Ball Corporation,United States,Packaging & Containers,2022,USD,13372000000.0,719000000.0,2250000000.0
-BAC,Bank of America Corporation,United States,Banks - Diversified,2024,USD,101887000000.0,27132000000.0,
-BAC,Bank of America Corporation,United States,Banks - Diversified,2023,USD,98581000000.0,26515000000.0,
-BAC,Bank of America Corporation,United States,Banks - Diversified,2022,USD,94950000000.0,27528000000.0,
-BAX,Baxter International Inc.,United States,Medical Instruments & Supplies,2024,USD,10636000000.0,-649000000.0,3984000000.0
-BAX,Baxter International Inc.,United States,Medical Instruments & Supplies,2023,USD,10360000000.0,2656000000.0,4150000000.0
-BAX,Baxter International Inc.,United States,Medical Instruments & Supplies,2022,USD,10057000000.0,-2433000000.0,3549000000.0
-BDX,"Becton, Dickinson and Company",United States,Medical Instruments & Supplies,2025,USD,21840000000.0,1678000000.0,9925000000.0
-BDX,"Becton, Dickinson and Company",United States,Medical Instruments & Supplies,2024,USD,20178000000.0,1705000000.0,9125000000.0
-BDX,"Becton, Dickinson and Company",United States,Medical Instruments & Supplies,2023,USD,19372000000.0,1484000000.0,8170000000.0
-BRK-B,Berkshire Hathaway Inc.,United States,Insurance - Diversified,2024,USD,424232000000.0,88995000000.0,
-BRK-B,Berkshire Hathaway Inc.,United States,Insurance - Diversified,2023,USD,439337000000.0,96223000000.0,
-BRK-B,Berkshire Hathaway Inc.,United States,Insurance - Diversified,2022,USD,234121000000.0,-22759000000.0,
-BBY,"Best Buy Co., Inc.",United States,Specialty Retail,2025,USD,41528000000.0,927000000.0,9385000000.0
-BBY,"Best Buy Co., Inc.",United States,Specialty Retail,2024,USD,43452000000.0,1241000000.0,9603000000.0
-BBY,"Best Buy Co., Inc.",United States,Specialty Retail,2023,USD,46298000000.0,1419000000.0,9912000000.0
-TECH,Bio-Techne Corporation,United States,Biotechnology,2025,USD,1219635000.0,73400000.0,790272000.0
-TECH,Bio-Techne Corporation,United States,Biotechnology,2024,USD,1159060000.0,168105000.0,769725000.0
-TECH,Bio-Techne Corporation,United States,Biotechnology,2023,USD,1136702000.0,285263000.0,769815000.0
-BIIB,Biogen Inc.,United States,Drug Manufacturers - General,2024,USD,9675900000.0,1632200000.0,7365500000.0
-BIIB,Biogen Inc.,United States,Drug Manufacturers - General,2023,USD,9835600000.0,1161100000.0,7302200000.0
-BIIB,Biogen Inc.,United States,Drug Manufacturers - General,2022,USD,10173400000.0,3046900000.0,7895100000.0
-BLK,"BlackRock, Inc.",United States,Asset Management,2024,USD,20407000000.0,6369000000.0,10086000000.0
-BLK,"BlackRock, Inc.",United States,Asset Management,2023,USD,17859000000.0,5502000000.0,8582000000.0
-BLK,"BlackRock, Inc.",United States,Asset Management,2022,USD,17873000000.0,5178000000.0,8684000000.0
-BX,Blackstone Inc.,United States,Asset Management,2024,USD,10930540000.0,2776508000.0,
-BX,Blackstone Inc.,United States,Asset Management,2023,USD,7006649000.0,1390880000.0,
-BX,Blackstone Inc.,United States,Asset Management,2022,USD,7132632000.0,1747631000.0,
-XYZ,"Block, Inc.",United States,Software - Infrastructure,2024,USD,24121053000.0,2897047000.0,8889036000.0
-XYZ,"Block, Inc.",United States,Software - Infrastructure,2023,USD,21915623000.0,9772000.0,7504886000.0
-XYZ,"Block, Inc.",United States,Software - Infrastructure,2022,USD,17531587000.0,-540747000.0,5991892000.0
-BK,The Bank of New York Mellon Corporation,United States,Banks - Diversified,2024,USD,18258000000.0,4530000000.0,
-BK,The Bank of New York Mellon Corporation,United States,Banks - Diversified,2023,USD,17488000000.0,3302000000.0,
-BK,The Bank of New York Mellon Corporation,United States,Banks - Diversified,2022,USD,16186000000.0,2556000000.0,
-BA,The Boeing Company,United States,Aerospace & Defense,2024,USD,66517000000.0,-11817000000.0,-1991000000.0
-BA,The Boeing Company,United States,Aerospace & Defense,2023,USD,77794000000.0,-2222000000.0,7724000000.0
-BA,The Boeing Company,United States,Aerospace & Defense,2022,USD,66608000000.0,-4935000000.0,3530000000.0
-BKNG,Booking Holdings Inc.,United States,Travel Services,2024,USD,23739000000.0,5882000000.0,
-BKNG,Booking Holdings Inc.,United States,Travel Services,2023,USD,21365000000.0,4289000000.0,
-BKNG,Booking Holdings Inc.,United States,Travel Services,2022,USD,17090000000.0,3058000000.0,
-BSX,Boston Scientific Corporation,United States,Medical Devices,2024,USD,16747000000.0,1854000000.0,11490000000.0
-BSX,Boston Scientific Corporation,United States,Medical Devices,2023,USD,14240000000.0,1593000000.0,9896000000.0
-BSX,Boston Scientific Corporation,United States,Medical Devices,2022,USD,12682000000.0,698000000.0,8727000000.0
-BMY,Bristol-Myers Squibb Company,United States,Drug Manufacturers - General,2024,USD,48300000000.0,-8948000000.0,34332000000.0
-BMY,Bristol-Myers Squibb Company,United States,Drug Manufacturers - General,2023,USD,45006000000.0,8025000000.0,34313000000.0
-BMY,Bristol-Myers Squibb Company,United States,Drug Manufacturers - General,2022,USD,46159000000.0,6327000000.0,36022000000.0
-AVGO,Broadcom Inc.,United States,Semiconductors,2024,USD,51574000000.0,5895000000.0,32509000000.0
-AVGO,Broadcom Inc.,United States,Semiconductors,2023,USD,35819000000.0,14082000000.0,24690000000.0
-AVGO,Broadcom Inc.,United States,Semiconductors,2022,USD,33203000000.0,11495000000.0,22095000000.0
-BR,"Broadridge Financial Solutions, Inc.",United States,Information Technology Services,2025,USD,6889100000.0,839500000.0,2136800000.0
-BR,"Broadridge Financial Solutions, Inc.",United States,Information Technology Services,2024,USD,6506800000.0,698100000.0,1933900000.0
-BR,"Broadridge Financial Solutions, Inc.",United States,Information Technology Services,2023,USD,6060900000.0,630600000.0,1785400000.0
-BRO,"Brown & Brown, Inc.",United States,Insurance Brokers,2024,USD,4705000000.0,993000000.0,2299000000.0
-BRO,"Brown & Brown, Inc.",United States,Insurance Brokers,2023,USD,4199000000.0,871000000.0,2012000000.0
-BRO,"Brown & Brown, Inc.",United States,Insurance Brokers,2022,USD,3563000000.0,672000000.0,1746000000.0
-BF-B,Brown-Forman Corporation,United States,Beverages - Wineries & Distilleries,2025,USD,3975000000.0,869000000.0,2343000000.0
-BF-B,Brown-Forman Corporation,United States,Beverages - Wineries & Distilleries,2024,USD,4178000000.0,1024000000.0,2526000000.0
-BF-B,Brown-Forman Corporation,United States,Beverages - Wineries & Distilleries,2023,USD,4228000000.0,783000000.0,2494000000.0
-BLDR,"Builders FirstSource, Inc.",United States,Building Products & Equipment,2024,USD,16400492000.0,1077898000.0,5383044000.0
-BLDR,"Builders FirstSource, Inc.",United States,Building Products & Equipment,2023,USD,17097330000.0,1540555000.0,6012334000.0
-BLDR,"Builders FirstSource, Inc.",United States,Building Products & Equipment,2022,USD,22726418000.0,2749369000.0,7744379000.0
-BG,Bunge Global SA,United States,Farm Products,2024,USD,53108000000.0,1137000000.0,3393000000.0
-BG,Bunge Global SA,United States,Farm Products,2023,USD,59540000000.0,2243000000.0,4845000000.0
-BG,Bunge Global SA,United States,Farm Products,2022,USD,67232000000.0,1610000000.0,3682000000.0
-BXP,"BXP, Inc.",United States,REIT - Office,2024,USD,3407719000.0,14272000.0,2085593000.0
-BXP,"BXP, Inc.",United States,REIT - Office,2023,USD,3273569000.0,190215000.0,2057397000.0
-BXP,"BXP, Inc.",United States,REIT - Office,2022,USD,3108581000.0,848947000.0,1973033000.0
-CHRW,"C.H. Robinson Worldwide, Inc.",United States,Integrated Freight & Logistics,2024,USD,17724956000.0,465690000.0,1308765000.0
-CHRW,"C.H. Robinson Worldwide, Inc.",United States,Integrated Freight & Logistics,2023,USD,17596443000.0,325129000.0,1138873000.0
-CHRW,"C.H. Robinson Worldwide, Inc.",United States,Integrated Freight & Logistics,2022,USD,24696625000.0,940524000.0,1870197000.0
-CDNS,"Cadence Design Systems, Inc.",United States,Software - Application,2024,USD,4641264000.0,1055484000.0,3993762000.0
-CDNS,"Cadence Design Systems, Inc.",United States,Software - Application,2023,USD,4089986000.0,1041144000.0,3654945000.0
-CDNS,"Cadence Design Systems, Inc.",United States,Software - Application,2022,USD,3561718000.0,848952000.0,3190095000.0
-CPT,Camden Property Trust,United States,REIT - Residential,2024,USD,1543842000.0,163293000.0,944506000.0
-CPT,Camden Property Trust,United States,REIT - Residential,2023,USD,1542027000.0,403309000.0,957684000.0
-CPT,Camden Property Trust,United States,REIT - Residential,2022,USD,1422756000.0,653613000.0,893558000.0
-CPB,The Campbell's Company,United States,Packaged Foods,2025,USD,10253000000.0,602000000.0,3119000000.0
-CPB,The Campbell's Company,United States,Packaged Foods,2024,USD,9636000000.0,567000000.0,2971000000.0
-CPB,The Campbell's Company,United States,Packaged Foods,2023,USD,9357000000.0,858000000.0,2917000000.0
-COF,Capital One Financial Corporation,United States,Credit Services,2024,USD,39112000000.0,4750000000.0,
-COF,Capital One Financial Corporation,United States,Credit Services,2023,USD,36787000000.0,4887000000.0,
-COF,Capital One Financial Corporation,United States,Credit Services,2022,USD,34250000000.0,7360000000.0,
-CAH,"Cardinal Health, Inc.",United States,Medical Distribution,2025,USD,222578000000.0,1561000000.0,8168000000.0
-CAH,"Cardinal Health, Inc.",United States,Medical Distribution,2024,USD,226827000000.0,852000000.0,7414000000.0
-CAH,"Cardinal Health, Inc.",United States,Medical Distribution,2023,USD,204979000000.0,330000000.0,6874000000.0
-CCL,Carnival Corporation & plc,United States,Travel Services,2024,USD,25021000000.0,1916000000.0,9383000000.0
-CCL,Carnival Corporation & plc,United States,Travel Services,2023,USD,21593000000.0,-74000000.0,7276000000.0
-CCL,Carnival Corporation & plc,United States,Travel Services,2022,USD,12169000000.0,-6093000000.0,412000000.0
-CARR,Carrier Global Corporation,United States,Building Products & Equipment,2024,USD,22486000000.0,5604000000.0,5981000000.0
-CARR,Carrier Global Corporation,United States,Building Products & Equipment,2023,USD,18951000000.0,1349000000.0,5162000000.0
-CARR,Carrier Global Corporation,United States,Building Products & Equipment,2022,USD,17288000000.0,3534000000.0,4297000000.0
-CAT,Caterpillar Inc.,United States,Farm & Heavy Construction Machinery,2024,USD,64809000000.0,10792000000.0,23324000000.0
-CAT,Caterpillar Inc.,United States,Farm & Heavy Construction Machinery,2023,USD,67060000000.0,10335000000.0,23263000000.0
-CAT,Caterpillar Inc.,United States,Farm & Heavy Construction Machinery,2022,USD,59427000000.0,6705000000.0,17512000000.0
-CBOE,"Cboe Global Markets, Inc.",United States,Financial Data & Stock Exchanges,2024,USD,4094500000.0,764900000.0,2072400000.0
-CBOE,"Cboe Global Markets, Inc.",United States,Financial Data & Stock Exchanges,2023,USD,3773500000.0,761400000.0,1918000000.0
-CBOE,"Cboe Global Markets, Inc.",United States,Financial Data & Stock Exchanges,2022,USD,3958500000.0,235000000.0,1741700000.0
-CBRE,"CBRE Group, Inc.",United States,Real Estate Services,2024,USD,35767000000.0,968000000.0,6956000000.0
-CBRE,"CBRE Group, Inc.",United States,Real Estate Services,2023,USD,31949000000.0,986000000.0,6274000000.0
-CBRE,"CBRE Group, Inc.",United States,Real Estate Services,2022,USD,30828000000.0,1407000000.0,6589000000.0
-CDW,CDW Corporation,United States,Information Technology Services,2024,USD,20998700000.0,1077800000.0,4602400000.0
-CDW,CDW Corporation,United States,Information Technology Services,2023,USD,21376000000.0,1104300000.0,4652400000.0
-CDW,CDW Corporation,United States,Information Technology Services,2022,USD,23748700000.0,1114500000.0,4686600000.0
-COR,"Cencora, Inc.",United States,Medical Distribution,2025,USD,321332819000.0,1554169000.0,11478539000.0
-COR,"Cencora, Inc.",United States,Medical Distribution,2024,USD,293958599000.0,1509120000.0,9910029000.0
-COR,"Cencora, Inc.",United States,Medical Distribution,2023,USD,262173411000.0,1745293000.0,8959493000.0
-CNC,Centene Corporation,United States,Healthcare Plans,2024,USD,163071000000.0,3305000000.0,16829000000.0
-CNC,Centene Corporation,United States,Healthcare Plans,2023,USD,153999000000.0,2702000000.0,17315000000.0
-CNC,Centene Corporation,United States,Healthcare Plans,2022,USD,144547000000.0,1202000000.0,16656000000.0
-CNP,"CenterPoint Energy, Inc.",United States,Utilities - Regulated Electric,2024,USD,8643000000.0,1019000000.0,3976000000.0
-CNP,"CenterPoint Energy, Inc.",United States,Utilities - Regulated Electric,2023,USD,8696000000.0,917000000.0,3686000000.0
-CNP,"CenterPoint Energy, Inc.",United States,Utilities - Regulated Electric,2022,USD,9321000000.0,1057000000.0,3397000000.0
-CF,"CF Industries Holdings, Inc.",United States,Agricultural Inputs,2024,USD,5936000000.0,1218000000.0,2056000000.0
-CF,"CF Industries Holdings, Inc.",United States,Agricultural Inputs,2023,USD,6631000000.0,1525000000.0,2545000000.0
-CF,"CF Industries Holdings, Inc.",United States,Agricultural Inputs,2022,USD,11186000000.0,3346000000.0,5861000000.0
-CRL,"Charles River Laboratories International, Inc.",United States,Diagnostics & Research,2024,USD,4049989000.0,10297000.0,1331821000.0
-CRL,"Charles River Laboratories International, Inc.",United States,Diagnostics & Research,2023,USD,4129409000.0,474624000.0,1502556000.0
-CRL,"Charles River Laboratories International, Inc.",United States,Diagnostics & Research,2022,USD,3976060000.0,486226000.0,1462651000.0
-SCHW,The Charles Schwab Corporation,United States,Capital Markets,2024,USD,19606000000.0,5942000000.0,
-SCHW,The Charles Schwab Corporation,United States,Capital Markets,2023,USD,18837000000.0,5067000000.0,
-SCHW,The Charles Schwab Corporation,United States,Capital Markets,2022,USD,20762000000.0,7183000000.0,
-CHTR,"Charter Communications, Inc.",United States,Telecom Services,2024,USD,55085000000.0,5083000000.0,30777000000.0
-CHTR,"Charter Communications, Inc.",United States,Telecom Services,2023,USD,54607000000.0,4557000000.0,29967000000.0
-CHTR,"Charter Communications, Inc.",United States,Telecom Services,2022,USD,54022000000.0,5055000000.0,29511000000.0
-CVX,Chevron Corporation,United States,Oil & Gas Integrated,2024,USD,193414000000.0,17661000000.0,56926000000.0
-CVX,Chevron Corporation,United States,Oil & Gas Integrated,2023,USD,196913000000.0,21369000000.0,60391000000.0
-CVX,Chevron Corporation,United States,Oil & Gas Integrated,2022,USD,235717000000.0,35465000000.0,73982000000.0
-CMG,"Chipotle Mexican Grill, Inc.",United States,Restaurants,2024,USD,11313853000.0,1534110000.0,3017692000.0
-CMG,"Chipotle Mexican Grill, Inc.",United States,Restaurants,2023,USD,9871649000.0,1228737000.0,2586092000.0
-CMG,"Chipotle Mexican Grill, Inc.",United States,Restaurants,2022,USD,8634652000.0,899101000.0,2062119000.0
-CB,Chubb Limited,Switzerland,Insurance - Property & Casualty,2024,USD,56150000000.0,9272000000.0,
-CB,Chubb Limited,Switzerland,Insurance - Property & Casualty,2023,USD,50133000000.0,9028000000.0,
-CB,Chubb Limited,Switzerland,Insurance - Property & Casualty,2022,USD,42975000000.0,5246000000.0,
-CHD,"Church & Dwight Co., Inc.",United States,Household & Personal Products,2024,USD,6107100000.0,585300000.0,2790100000.0
-CHD,"Church & Dwight Co., Inc.",United States,Household & Personal Products,2023,USD,5867900000.0,755600000.0,2588500000.0
-CHD,"Church & Dwight Co., Inc.",United States,Household & Personal Products,2022,USD,5375600000.0,413900000.0,2250000000.0
-CI,The Cigna Group,United States,Healthcare Plans,2024,USD,244384000000.0,3434000000.0,
-CI,The Cigna Group,United States,Healthcare Plans,2023,USD,195187000000.0,5164000000.0,
-CI,The Cigna Group,United States,Healthcare Plans,2022,USD,180031000000.0,6704000000.0,
-CINF,Cincinnati Financial Corporation,United States,Insurance - Property & Casualty,2024,USD,11337000000.0,2292000000.0,
-CINF,Cincinnati Financial Corporation,United States,Insurance - Property & Casualty,2023,USD,10013000000.0,1843000000.0,
-CINF,Cincinnati Financial Corporation,United States,Insurance - Property & Casualty,2022,USD,6563000000.0,-487000000.0,
-CTAS,Cintas Corporation,United States,Specialty Business Services,2025,USD,10340181000.0,1812281000.0,5174164000.0
-CTAS,Cintas Corporation,United States,Specialty Business Services,2024,USD,9596615000.0,1571592000.0,4686416000.0
-CTAS,Cintas Corporation,United States,Specialty Business Services,2023,USD,8815769000.0,1348010000.0,4173368000.0
-CSCO,"Cisco Systems, Inc.",United States,Communication Equipment,2025,USD,56654000000.0,10180000000.0,36790000000.0
-CSCO,"Cisco Systems, Inc.",United States,Communication Equipment,2024,USD,53803000000.0,10320000000.0,34828000000.0
-CSCO,"Cisco Systems, Inc.",United States,Communication Equipment,2023,USD,56998000000.0,12613000000.0,35753000000.0
-C,Citigroup Inc.,United States,Banks - Diversified,2024,USD,81089000000.0,12682000000.0,
-C,Citigroup Inc.,United States,Banks - Diversified,2023,USD,77024000000.0,9228000000.0,
-C,Citigroup Inc.,United States,Banks - Diversified,2022,USD,74480000000.0,14845000000.0,
-CFG,"Citizens Financial Group, Inc.",United States,Banks - Regional,2024,USD,7794000000.0,1509000000.0,
-CFG,"Citizens Financial Group, Inc.",United States,Banks - Regional,2023,USD,8224000000.0,1608000000.0,
-CFG,"Citizens Financial Group, Inc.",United States,Banks - Regional,2022,USD,8021000000.0,2073000000.0,
-CLX,The Clorox Company,United States,Household & Personal Products,2025,USD,7104000000.0,810000000.0,3213000000.0
-CLX,The Clorox Company,United States,Household & Personal Products,2024,USD,7093000000.0,280000000.0,3048000000.0
-CLX,The Clorox Company,United States,Household & Personal Products,2023,USD,7389000000.0,149000000.0,2908000000.0
-CME,CME Group Inc.,United States,Financial Data & Stock Exchanges,2024,USD,6130100000.0,3525800000.0,5279800000.0
-CME,CME Group Inc.,United States,Financial Data & Stock Exchanges,2023,USD,5578900000.0,3226200000.0,4750300000.0
-CME,CME Group Inc.,United States,Financial Data & Stock Exchanges,2022,USD,5019400000.0,2691000000.0,4266300000.0
-CMS,CMS Energy Corporation,United States,Utilities - Regulated Electric,2024,USD,7515000000.0,1003000000.0,3209000000.0
-CMS,CMS Energy Corporation,United States,Utilities - Regulated Electric,2023,USD,7462000000.0,887000000.0,2862000000.0
-CMS,CMS Energy Corporation,United States,Utilities - Regulated Electric,2022,USD,8596000000.0,837000000.0,2762000000.0
-KO,The Coca-Cola Company,United States,Beverages - Non-Alcoholic,2024,USD,47061000000.0,10631000000.0,28737000000.0
-KO,The Coca-Cola Company,United States,Beverages - Non-Alcoholic,2023,USD,45754000000.0,10714000000.0,27234000000.0
-KO,The Coca-Cola Company,United States,Beverages - Non-Alcoholic,2022,USD,43004000000.0,9542000000.0,25004000000.0
-CTSH,Cognizant Technology Solutions Corporation,United States,Information Technology Services,2024,USD,19736000000.0,2240000000.0,6778000000.0
-CTSH,Cognizant Technology Solutions Corporation,United States,Information Technology Services,2023,USD,19353000000.0,2126000000.0,6689000000.0
-CTSH,Cognizant Technology Solutions Corporation,United States,Information Technology Services,2022,USD,19428000000.0,2290000000.0,6980000000.0
-COIN,"Coinbase Global, Inc.",United States,Financial Data & Stock Exchanges,2024,USD,6564028000.0,2579066000.0,4906481000.0
-COIN,"Coinbase Global, Inc.",United States,Financial Data & Stock Exchanges,2023,USD,3108383000.0,94871000.0,1972833000.0
-COIN,"Coinbase Global, Inc.",United States,Financial Data & Stock Exchanges,2022,USD,3194208000.0,-2624949000.0,2564328000.0
-CL,Colgate-Palmolive Company,United States,Household & Personal Products,2024,USD,20101000000.0,2889000000.0,12161000000.0
-CL,Colgate-Palmolive Company,United States,Household & Personal Products,2023,USD,19457000000.0,2300000000.0,11326000000.0
-CL,Colgate-Palmolive Company,United States,Household & Personal Products,2022,USD,17967000000.0,1785000000.0,10248000000.0
-CMCSA,Comcast Corporation,United States,Telecom Services,2024,USD,123731000000.0,16192000000.0,86705000000.0
-CMCSA,Comcast Corporation,United States,Telecom Services,2023,USD,121572000000.0,15388000000.0,84810000000.0
-CMCSA,Comcast Corporation,United States,Telecom Services,2022,USD,121427000000.0,5370000000.0,83214000000.0
-CAG,"Conagra Brands, Inc.",United States,Packaged Foods,2025,USD,11612800000.0,1152400000.0,3003500000.0
-CAG,"Conagra Brands, Inc.",United States,Packaged Foods,2024,USD,12050900000.0,347200000.0,3333400000.0
-CAG,"Conagra Brands, Inc.",United States,Packaged Foods,2023,USD,12277000000.0,683600000.0,3264800000.0
-COP,ConocoPhillips,United States,Oil & Gas E&P,2024,USD,54745000000.0,9245000000.0,16383000000.0
-COP,ConocoPhillips,United States,Oil & Gas E&P,2023,USD,56141000000.0,10957000000.0,18203000000.0
-COP,ConocoPhillips,United States,Oil & Gas E&P,2022,USD,78494000000.0,18680000000.0,30013000000.0
-ED,"Consolidated Edison, Inc.",United States,Utilities - Regulated Electric,2024,USD,15256000000.0,1820000000.0,8167000000.0
-ED,"Consolidated Edison, Inc.",United States,Utilities - Regulated Electric,2023,USD,14663000000.0,2519000000.0,7405000000.0
-ED,"Consolidated Edison, Inc.",United States,Utilities - Regulated Electric,2022,USD,15670000000.0,1660000000.0,7685000000.0
-STZ,"Constellation Brands, Inc.",United States,Beverages - Brewers,2025,USD,10208700000.0,-81400000.0,5314600000.0
-STZ,"Constellation Brands, Inc.",United States,Beverages - Brewers,2024,USD,9961800000.0,1727400000.0,5017500000.0
-STZ,"Constellation Brands, Inc.",United States,Beverages - Brewers,2023,USD,9452600000.0,-71000000.0,4769000000.0
-CEG,Constellation Energy Corporation,United States,Utilities - Independent Power Producers,2024,USD,23568000000.0,3749000000.0,5990000000.0
-CEG,Constellation Energy Corporation,United States,Utilities - Independent Power Producers,2023,USD,24918000000.0,1623000000.0,3232000000.0
-CEG,Constellation Energy Corporation,United States,Utilities - Independent Power Producers,2022,USD,24440000000.0,-160000000.0,2137000000.0
-COO,"The Cooper Companies, Inc.",United States,Medical Instruments & Supplies,2024,USD,3895400000.0,392300000.0,2595700000.0
-COO,"The Cooper Companies, Inc.",United States,Medical Instruments & Supplies,2023,USD,3593200000.0,294200000.0,2357900000.0
-COO,"The Cooper Companies, Inc.",United States,Medical Instruments & Supplies,2022,USD,3308400000.0,385800000.0,2139600000.0
-CPRT,"Copart, Inc.",United States,Specialty Business Services,2025,USD,4646958000.0,1552449000.0,2099643000.0
-CPRT,"Copart, Inc.",United States,Specialty Business Services,2024,USD,4236823000.0,1363020000.0,1907252000.0
-CPRT,"Copart, Inc.",United States,Specialty Business Services,2023,USD,3869518000.0,1237741000.0,1736991000.0
-GLW,Corning Incorporated,United States,Electronic Components,2024,USD,13118000000.0,506000000.0,4276000000.0
-GLW,Corning Incorporated,United States,Electronic Components,2023,USD,12588000000.0,581000000.0,3931000000.0
-GLW,Corning Incorporated,United States,Electronic Components,2022,USD,14189000000.0,1316000000.0,4506000000.0
-CPAY,"Corpay, Inc.",United States,Software - Infrastructure,2024,USD,3974589000.0,1003746000.0,3105504000.0
-CPAY,"Corpay, Inc.",United States,Software - Infrastructure,2023,USD,3757719000.0,981890000.0,2937811000.0
-CPAY,"Corpay, Inc.",United States,Software - Infrastructure,2022,USD,3427129000.0,954327000.0,2662422000.0
-CTVA,"Corteva, Inc.",United States,Agricultural Inputs,2024,USD,16908000000.0,907000000.0,7379000000.0
-CTVA,"Corteva, Inc.",United States,Agricultural Inputs,2023,USD,17226000000.0,735000000.0,7306000000.0
-CTVA,"Corteva, Inc.",United States,Agricultural Inputs,2022,USD,17455000000.0,1147000000.0,7019000000.0
-CSGP,"CoStar Group, Inc.",United States,Real Estate Services,2024,USD,2736200000.0,138700000.0,2177700000.0
-CSGP,"CoStar Group, Inc.",United States,Real Estate Services,2023,USD,2455000000.0,374700000.0,1963500000.0
-CSGP,"CoStar Group, Inc.",United States,Real Estate Services,2022,USD,2182400000.0,369500000.0,1768400000.0
-COST,Costco Wholesale Corporation,United States,Discount Stores,2025,USD,275235000000.0,8099000000.0,35349000000.0
-COST,Costco Wholesale Corporation,United States,Discount Stores,2024,USD,254453000000.0,7367000000.0,32095000000.0
-COST,Costco Wholesale Corporation,United States,Discount Stores,2023,USD,242290000000.0,6292000000.0,29704000000.0
-CTRA,Coterra Energy Inc.,United States,Oil & Gas E&P,2024,USD,5458000000.0,1121000000.0,1995000000.0
-CTRA,Coterra Energy Inc.,United States,Oil & Gas E&P,2023,USD,5914000000.0,1625000000.0,2746000000.0
-CTRA,Coterra Energy Inc.,United States,Oil & Gas E&P,2022,USD,9051000000.0,4065000000.0,6001000000.0
-CRWD,"CrowdStrike Holdings, Inc.",United States,Software - Infrastructure,2025,USD,3953624000.0,-19271000.0,2962143000.0
-CRWD,"CrowdStrike Holdings, Inc.",United States,Software - Infrastructure,2024,USD,3055555000.0,89327000.0,2299832000.0
-CRWD,"CrowdStrike Holdings, Inc.",United States,Software - Infrastructure,2023,USD,2241236000.0,-183245000.0,1640005000.0
-CCI,Crown Castle Inc.,United States,REIT - Specialty,2024,USD,6568000000.0,-3903000000.0,4721000000.0
-CCI,Crown Castle Inc.,United States,REIT - Specialty,2023,USD,6981000000.0,1502000000.0,5001000000.0
-CCI,Crown Castle Inc.,United States,REIT - Specialty,2022,USD,6986000000.0,1675000000.0,4918000000.0
-CSX,CSX Corporation,United States,Railroads,2024,USD,14540000000.0,3470000000.0,5342000000.0
-CSX,CSX Corporation,United States,Railroads,2023,USD,14657000000.0,3668000000.0,5465000000.0
-CSX,CSX Corporation,United States,Railroads,2022,USD,14853000000.0,4114000000.0,5716000000.0
-CMI,Cummins Inc.,United States,Specialty Industrial Machinery,2024,USD,34102000000.0,3946000000.0,8439000000.0
-CMI,Cummins Inc.,United States,Specialty Industrial Machinery,2023,USD,34065000000.0,735000000.0,8249000000.0
-CMI,Cummins Inc.,United States,Specialty Industrial Machinery,2022,USD,28074000000.0,2151000000.0,6719000000.0
-CVS,CVS Health Corporation,United States,Healthcare Plans,2024,USD,372809000000.0,4614000000.0,51401000000.0
-CVS,CVS Health Corporation,United States,Healthcare Plans,2023,USD,357776000000.0,8344000000.0,54431000000.0
-CVS,CVS Health Corporation,United States,Healthcare Plans,2022,USD,322467000000.0,4311000000.0,54502000000.0
-DHR,Danaher Corporation,United States,Diagnostics & Research,2024,USD,23875000000.0,3899000000.0,14206000000.0
-DHR,Danaher Corporation,United States,Diagnostics & Research,2023,USD,23890000000.0,4764000000.0,14034000000.0
-DHR,Danaher Corporation,United States,Diagnostics & Research,2022,USD,26643000000.0,7209000000.0,16188000000.0
-DRI,"Darden Restaurants, Inc.",United States,Restaurants,2025,USD,12076700000.0,1049600000.0,2642600000.0
-DRI,"Darden Restaurants, Inc.",United States,Restaurants,2024,USD,11390000000.0,1027600000.0,2434500000.0
-DRI,"Darden Restaurants, Inc.",United States,Restaurants,2023,USD,10487800000.0,981900000.0,2109300000.0
-DDOG,"Datadog, Inc.",United States,Software - Application,2024,USD,2684275000.0,183746000.0,2168744000.0
-DDOG,"Datadog, Inc.",United States,Software - Application,2023,USD,2128359000.0,48568000.0,1718451000.0
-DDOG,"Datadog, Inc.",United States,Software - Application,2022,USD,1675100000.0,-50160000.0,1328357000.0
-DVA,DaVita Inc.,United States,Medical Care Facilities,2024,USD,12815550000.0,936342000.0,4217029000.0
-DVA,DaVita Inc.,United States,Medical Care Facilities,2023,USD,12140147000.0,691535000.0,3820430000.0
-DVA,DaVita Inc.,United States,Medical Care Facilities,2022,USD,11609894000.0,560400000.0,3400341000.0
-DAY,Dayforce Inc,United States,Software - Application,2024,USD,1760000000.0,18100000.0,812100000.0
-DAY,Dayforce Inc,United States,Software - Application,2023,USD,1513700000.0,54800000.0,646500000.0
-DAY,Dayforce Inc,United States,Software - Application,2022,USD,1246200000.0,-73400000.0,473200000.0
-DECK,Deckers Outdoor Corporation,United States,Footwear & Accessories,2025,USD,4985612000.0,966091000.0,2885663000.0
-DECK,Deckers Outdoor Corporation,United States,Footwear & Accessories,2024,USD,4287763000.0,759563000.0,2385488000.0
-DECK,Deckers Outdoor Corporation,United States,Footwear & Accessories,2023,USD,3627286000.0,516822000.0,1825370000.0
-DE,Deere & Company,United States,Farm & Heavy Construction Machinery,2024,USD,50518000000.0,7100000000.0,19495000000.0
-DE,Deere & Company,United States,Farm & Heavy Construction Machinery,2023,USD,60248000000.0,10166000000.0,22306000000.0
-DE,Deere & Company,United States,Farm & Heavy Construction Machinery,2022,USD,51282000000.0,7131000000.0,15730000000.0
-DELL,Dell Technologies Inc.,United States,Computer Hardware,2025,USD,95567000000.0,4592000000.0,21250000000.0
-DELL,Dell Technologies Inc.,United States,Computer Hardware,2024,USD,88425000000.0,3388000000.0,21069000000.0
-DELL,Dell Technologies Inc.,United States,Computer Hardware,2023,USD,102301000000.0,2442000000.0,22686000000.0
-DAL,"Delta Air Lines, Inc.",United States,Airlines,2024,USD,61643000000.0,3457000000.0,16557000000.0
-DAL,"Delta Air Lines, Inc.",United States,Airlines,2023,USD,58048000000.0,4609000000.0,15518000000.0
-DAL,"Delta Air Lines, Inc.",United States,Airlines,2022,USD,50582000000.0,1318000000.0,11160000000.0
-DVN,Devon Energy Corporation,United States,Oil & Gas E&P,2024,USD,15940000000.0,2891000000.0,4710000000.0
-DVN,Devon Energy Corporation,United States,Oil & Gas E&P,2023,USD,15258000000.0,3747000000.0,5367000000.0
-DVN,Devon Energy Corporation,United States,Oil & Gas E&P,2022,USD,19169000000.0,6015000000.0,8369000000.0
-DXCM,"DexCom, Inc.",United States,Medical Devices,2024,USD,4033000000.0,576200000.0,2438200000.0
-DXCM,"DexCom, Inc.",United States,Medical Devices,2023,USD,3622300000.0,541500000.0,2288900000.0
-DXCM,"DexCom, Inc.",United States,Medical Devices,2022,USD,2909800000.0,341200000.0,1883100000.0
-FANG,"Diamondback Energy, Inc.",United States,Oil & Gas E&P,2024,USD,11023000000.0,3338000000.0,4972000000.0
-FANG,"Diamondback Energy, Inc.",United States,Oil & Gas E&P,2023,USD,8339000000.0,3143000000.0,4798000000.0
-FANG,"Diamondback Energy, Inc.",United States,Oil & Gas E&P,2022,USD,9566000000.0,4386000000.0,6701000000.0
-DLR,"Digital Realty Trust, Inc.",United States,REIT - Specialty,2024,USD,5554968000.0,602490000.0,3035853000.0
-DLR,"Digital Realty Trust, Inc.",United States,REIT - Specialty,2023,USD,5477061000.0,948838000.0,2878990000.0
-DLR,"Digital Realty Trust, Inc.",United States,REIT - Specialty,2022,USD,4691834000.0,377684000.0,2674272000.0
-DG,Dollar General Corporation,United States,Discount Stores,2025,USD,40612308000.0,1125253000.0,12017497000.0
-DG,Dollar General Corporation,United States,Discount Stores,2024,USD,38691609000.0,1661274000.0,11719024000.0
-DG,Dollar General Corporation,United States,Discount Stores,2023,USD,37844863000.0,2415989000.0,11820098000.0
-DLTR,"Dollar Tree, Inc.",United States,Discount Stores,2025,USD,17578500000.0,-3030100000.0,6294400000.0
-DLTR,"Dollar Tree, Inc.",United States,Discount Stores,2024,USD,16781100000.0,-998400000.0,6019700000.0
-DLTR,"Dollar Tree, Inc.",United States,Discount Stores,2023,USD,15411500000.0,1615400000.0,5781300000.0
-D,"Dominion Energy, Inc.",United States,Utilities - Regulated Electric,2024,USD,14459000000.0,2124000000.0,6922000000.0
-D,"Dominion Energy, Inc.",United States,Utilities - Regulated Electric,2023,USD,14393000000.0,2031000000.0,6958000000.0
-D,"Dominion Energy, Inc.",United States,Utilities - Regulated Electric,2022,USD,13938000000.0,1191000000.0,6377000000.0
-DPZ,"Domino's Pizza, Inc.",United States,Restaurants,2024,USD,4706416000.0,584170000.0,1848502000.0
-DPZ,"Domino's Pizza, Inc.",United States,Restaurants,2023,USD,4479358000.0,519118000.0,1727417000.0
-DPZ,"Domino's Pizza, Inc.",United States,Restaurants,2022,USD,4537158000.0,452263000.0,1648606000.0
-DASH,"DoorDash, Inc.",United States,Internet Retail,2024,USD,10722000000.0,123000000.0,5180000000.0
-DASH,"DoorDash, Inc.",United States,Internet Retail,2023,USD,8635000000.0,-558000000.0,4046000000.0
-DASH,"DoorDash, Inc.",United States,Internet Retail,2022,USD,6583000000.0,-1365000000.0,2995000000.0
-DOV,Dover Corporation,United States,Specialty Industrial Machinery,2024,USD,7745909000.0,2697126000.0,2958621000.0
-DOV,Dover Corporation,United States,Specialty Industrial Machinery,2023,USD,7684476000.0,1056828000.0,2867544000.0
-DOV,Dover Corporation,United States,Specialty Industrial Machinery,2022,USD,7844174000.0,1065376000.0,2904953000.0
-DOW,Dow Inc.,United States,Chemicals,2024,USD,42964000000.0,1116000000.0,4606000000.0
-DOW,Dow Inc.,United States,Chemicals,2023,USD,44622000000.0,589000000.0,4880000000.0
-DOW,Dow Inc.,United States,Chemicals,2022,USD,56902000000.0,4582000000.0,8564000000.0
-DHI,"D.R. Horton, Inc.",United States,Residential Construction,2025,USD,34250400000.0,3585200000.0,8116200000.0
-DHI,"D.R. Horton, Inc.",United States,Residential Construction,2024,USD,36801400000.0,4756400000.0,9535400000.0
-DHI,"D.R. Horton, Inc.",United States,Residential Construction,2023,USD,35460400000.0,4745700000.0,9350400000.0
-DTE,DTE Energy Company,United States,Utilities - Regulated Electric,2024,USD,12457000000.0,1404000000.0,4338000000.0
-DTE,DTE Energy Company,United States,Utilities - Regulated Electric,2023,USD,12745000000.0,1397000000.0,4327000000.0
-DTE,DTE Energy Company,United States,Utilities - Regulated Electric,2022,USD,19228000000.0,1083000000.0,3668000000.0
-DUK,Duke Energy Corporation,United States,Utilities - Regulated Electric,2024,USD,30357000000.0,4524000000.0,15197000000.0
-DUK,Duke Energy Corporation,United States,Utilities - Regulated Electric,2023,USD,29060000000.0,2841000000.0,13756000000.0
-DUK,Duke Energy Corporation,United States,Utilities - Regulated Electric,2022,USD,28768000000.0,2550000000.0,12976000000.0
-DD,"DuPont de Nemours, Inc.",United States,Specialty Chemicals,2024,USD,12386000000.0,703000000.0,4507000000.0
-DD,"DuPont de Nemours, Inc.",United States,Specialty Chemicals,2023,USD,12068000000.0,423000000.0,4233000000.0
-DD,"DuPont de Nemours, Inc.",United States,Specialty Chemicals,2022,USD,13017000000.0,5868000000.0,4615000000.0
-ETN,Eaton Corporation plc,Ireland,Specialty Industrial Machinery,2024,USD,24878000000.0,3794000000.0,9503000000.0
-ETN,Eaton Corporation plc,Ireland,Specialty Industrial Machinery,2023,USD,23196000000.0,3218000000.0,8434000000.0
-ETN,Eaton Corporation plc,Ireland,Specialty Industrial Machinery,2022,USD,20752000000.0,2462000000.0,6887000000.0
-EBAY,eBay Inc.,United States,Internet Retail,2024,USD,10283000000.0,1975000000.0,7403000000.0
-EBAY,eBay Inc.,United States,Internet Retail,2023,USD,10112000000.0,2767000000.0,7279000000.0
-EBAY,eBay Inc.,United States,Internet Retail,2022,USD,9795000000.0,-1269000000.0,7115000000.0
-ECL,Ecolab Inc.,United States,Specialty Chemicals,2024,USD,15741400000.0,2112400000.0,6841700000.0
-ECL,Ecolab Inc.,United States,Specialty Chemicals,2023,USD,15320200000.0,1372300000.0,6165300000.0
-ECL,Ecolab Inc.,United States,Specialty Chemicals,2022,USD,14187800000.0,1091700000.0,5356800000.0
-EIX,Edison International,United States,Utilities - Regulated Electric,2024,USD,17599000000.0,1546000000.0,7218000000.0
-EIX,Edison International,United States,Utilities - Regulated Electric,2023,USD,16338000000.0,1407000000.0,6714000000.0
-EIX,Edison International,United States,Utilities - Regulated Electric,2022,USD,17220000000.0,824000000.0,6121000000.0
-EW,Edwards Lifesciences Corporation,United States,Medical Devices,2024,USD,5439500000.0,4174600000.0,4322000000.0
-EW,Edwards Lifesciences Corporation,United States,Medical Devices,2023,USD,5010000000.0,1402400000.0,4031600000.0
-EW,Edwards Lifesciences Corporation,United States,Medical Devices,2022,USD,4464000000.0,1521900000.0,3740300000.0
-EA,Electronic Arts Inc.,United States,Electronic Gaming & Multimedia,2025,USD,7463000000.0,1121000000.0,5920000000.0
-EA,Electronic Arts Inc.,United States,Electronic Gaming & Multimedia,2024,USD,7562000000.0,1273000000.0,5852000000.0
-EA,Electronic Arts Inc.,United States,Electronic Gaming & Multimedia,2023,USD,7426000000.0,802000000.0,5634000000.0
-ELV,"Elevance Health, Inc.",United States,Healthcare Plans,2024,USD,176810000000.0,5980000000.0,
-ELV,"Elevance Health, Inc.",United States,Healthcare Plans,2023,USD,171340000000.0,5987000000.0,
-ELV,"Elevance Health, Inc.",United States,Healthcare Plans,2022,USD,156595000000.0,5894000000.0,
-EME,"EMCOR Group, Inc.",United States,Engineering & Construction,2024,USD,14566116000.0,1007145000.0,2765051000.0
-EME,"EMCOR Group, Inc.",United States,Engineering & Construction,2023,USD,12582873000.0,632994000.0,2089339000.0
-EME,"EMCOR Group, Inc.",United States,Engineering & Construction,2022,USD,11076120000.0,406122000.0,1603594000.0
-EMR,Emerson Electric Co.,United States,Specialty Industrial Machinery,2025,USD,18016000000.0,2293000000.0,9519000000.0
-EMR,Emerson Electric Co.,United States,Specialty Industrial Machinery,2024,USD,17492000000.0,1968000000.0,8885000000.0
-EMR,Emerson Electric Co.,United States,Specialty Industrial Machinery,2023,USD,15165000000.0,13219000000.0,7427000000.0
-ETR,Entergy Corporation,United States,Utilities - Regulated Electric,2024,USD,11879653000.0,1061184000.0,5738287000.0
-ETR,Entergy Corporation,United States,Utilities - Regulated Electric,2023,USD,12147412000.0,2362310000.0,5329436000.0
-ETR,Entergy Corporation,United States,Utilities - Regulated Electric,2022,USD,13764237000.0,1097138000.0,5275351000.0
-EOG,"EOG Resources, Inc.",United States,Oil & Gas E&P,2024,USD,23378000000.0,6403000000.0,15976000000.0
-EOG,"EOG Resources, Inc.",United States,Oil & Gas E&P,2023,USD,23182000000.0,7594000000.0,16616000000.0
-EOG,"EOG Resources, Inc.",United States,Oil & Gas E&P,2022,USD,29492000000.0,7759000000.0,23032000000.0
-EPAM,"EPAM Systems, Inc.",United States,Information Technology Services,2024,USD,4727940000.0,454533000.0,1450443000.0
-EPAM,"EPAM Systems, Inc.",United States,Information Technology Services,2023,USD,4690540000.0,417083000.0,1434026000.0
-EPAM,"EPAM Systems, Inc.",United States,Information Technology Services,2022,USD,4824698000.0,419416000.0,1538015000.0
-EQT,EQT Corporation,United States,Oil & Gas E&P,2024,USD,5222192000.0,230577000.0,767219000.0
-EQT,EQT Corporation,United States,Oil & Gas E&P,2023,USD,5069982000.0,1735232000.0,941579000.0
-EQT,EQT Corporation,United States,Oil & Gas E&P,2022,USD,12140621000.0,1770965000.0,8059295000.0
-EFX,Equifax Inc.,United States,Consulting Services,2024,USD,5681100000.0,604100000.0,3162400000.0
-EFX,Equifax Inc.,United States,Consulting Services,2023,USD,5265200000.0,545300000.0,2930100000.0
-EFX,Equifax Inc.,United States,Consulting Services,2022,USD,5122200000.0,696200000.0,2945000000.0
-EQIX,"Equinix, Inc.",United States,REIT - Specialty,2024,USD,8748000000.0,815000000.0,4281000000.0
-EQIX,"Equinix, Inc.",United States,REIT - Specialty,2023,USD,8188000000.0,969000000.0,3960000000.0
-EQIX,"Equinix, Inc.",United States,REIT - Specialty,2022,USD,7263000000.0,705000000.0,3512000000.0
-EQR,Equity Residential,United States,REIT - Residential,2024,USD,2980108000.0,1035831000.0,1885543000.0
-EQR,Equity Residential,United States,REIT - Residential,2023,USD,2873964000.0,835438000.0,1827471000.0
-EQR,Equity Residential,United States,REIT - Residential,2022,USD,2735180000.0,776911000.0,1752599000.0
-ERIE,Erie Indemnity Company,United States,Insurance Brokers,2024,USD,3862404000.0,600314000.0,
-ERIE,Erie Indemnity Company,United States,Insurance Brokers,2023,USD,3309216000.0,446061000.0,
-ERIE,Erie Indemnity Company,United States,Insurance Brokers,2022,USD,2851202000.0,298569000.0,
-ESS,"Essex Property Trust, Inc.",United States,REIT - Residential,2024,USD,1774450000.0,741522000.0,1207635000.0
-ESS,"Essex Property Trust, Inc.",United States,REIT - Residential,2023,USD,1669395000.0,405825000.0,1137347000.0
-ESS,"Essex Property Trust, Inc.",United States,REIT - Residential,2022,USD,1606814000.0,408315000.0,1109077000.0
-EL,The Estée Lauder Companies Inc.,United States,Household & Personal Products,2025,USD,14326000000.0,-1133000000.0,10597000000.0
-EL,The Estée Lauder Companies Inc.,United States,Household & Personal Products,2024,USD,15608000000.0,390000000.0,11184000000.0
-EL,The Estée Lauder Companies Inc.,United States,Household & Personal Products,2023,USD,15910000000.0,1006000000.0,11346000000.0
-EG,"Everest Group, Ltd.",Bermuda,Insurance - Reinsurance,2024,USD,17076000000.0,1373000000.0,
-EG,"Everest Group, Ltd.",Bermuda,Insurance - Reinsurance,2023,USD,14464000000.0,2517000000.0,
-EG,"Everest Group, Ltd.",Bermuda,Insurance - Reinsurance,2022,USD,11985000000.0,597000000.0,
-EVRG,"Evergy, Inc.",United States,Utilities - Regulated Electric,2024,USD,5847300000.0,873500000.0,3034600000.0
-EVRG,"Evergy, Inc.",United States,Utilities - Regulated Electric,2023,USD,5508200000.0,731300000.0,2765500000.0
-EVRG,"Evergy, Inc.",United States,Utilities - Regulated Electric,2022,USD,5859100000.0,752700000.0,2629600000.0
-ES,Eversource Energy,United States,Utilities - Regulated Electric,2024,USD,11900809000.0,811653000.0,6151805000.0
-ES,Eversource Energy,United States,Utilities - Regulated Electric,2023,USD,11910705000.0,-442240000.0,4846761000.0
-ES,Eversource Energy,United States,Utilities - Regulated Electric,2022,USD,12289336000.0,1404875000.0,5409934000.0
-EXC,Exelon Corporation,United States,Utilities - Regulated Electric,2024,USD,23028000000.0,2460000000.0,9405000000.0
-EXC,Exelon Corporation,United States,Utilities - Regulated Electric,2023,USD,21727000000.0,2328000000.0,8927000000.0
-EXC,Exelon Corporation,United States,Utilities - Regulated Electric,2022,USD,19078000000.0,2170000000.0,8032000000.0
-EXE,Expand Energy Corporation,United States,Oil & Gas E&P,2024,USD,4221000000.0,-714000000.0,1141000000.0
-EXE,Expand Energy Corporation,United States,Oil & Gas E&P,2023,USD,7775000000.0,2419000000.0,5039000000.0
-EXE,Expand Energy Corporation,United States,Oil & Gas E&P,2022,USD,11443000000.0,4936000000.0,8156000000.0
-EXPE,"Expedia Group, Inc.",United States,Travel Services,2024,USD,13691000000.0,1234000000.0,12248000000.0
-EXPE,"Expedia Group, Inc.",United States,Travel Services,2023,USD,12839000000.0,797000000.0,11266000000.0
-EXPE,"Expedia Group, Inc.",United States,Travel Services,2022,USD,11667000000.0,352000000.0,10010000000.0
-EXPD,"Expeditors International of Washington, Inc.",United States,Integrated Freight & Logistics,2024,USD,10600515000.0,810073000.0,1349040000.0
-EXPD,"Expeditors International of Washington, Inc.",United States,Integrated Freight & Logistics,2023,USD,9300110000.0,752883000.0,1245476000.0
-EXPD,"Expeditors International of Washington, Inc.",United States,Integrated Freight & Logistics,2022,USD,17071284000.0,1357399000.0,2171130000.0
-EXR,Extra Space Storage Inc.,United States,REIT - Industrial,2024,USD,3256902000.0,854681000.0,2351450000.0
-EXR,Extra Space Storage Inc.,United States,REIT - Industrial,2023,USD,2560244000.0,803198000.0,1889334000.0
-EXR,Extra Space Storage Inc.,United States,REIT - Industrial,2022,USD,1924170000.0,860688000.0,1455268000.0
-XOM,Exxon Mobil Corporation,United States,Oil & Gas Integrated,2024,USD,339247000000.0,33680000000.0,76742000000.0
-XOM,Exxon Mobil Corporation,United States,Oil & Gas Integrated,2023,USD,334697000000.0,36010000000.0,84142000000.0
-XOM,Exxon Mobil Corporation,United States,Oil & Gas Integrated,2022,USD,398675000000.0,55740000000.0,103067000000.0
-FFIV,"F5, Inc.",United States,Software - Infrastructure,2025,USD,3088072000.0,692380000.0,2514094000.0
-FFIV,"F5, Inc.",United States,Software - Infrastructure,2024,USD,2816120000.0,566778000.0,2258473000.0
-FFIV,"F5, Inc.",United States,Software - Infrastructure,2023,USD,2813169000.0,394948000.0,2219861000.0
-FDS,FactSet Research Systems Inc.,United States,Financial Data & Stock Exchanges,2025,USD,2321748000.0,597040000.0,1223966000.0
-FDS,FactSet Research Systems Inc.,United States,Financial Data & Stock Exchanges,2024,USD,2203056000.0,537126000.0,1191111000.0
-FDS,FactSet Research Systems Inc.,United States,Financial Data & Stock Exchanges,2023,USD,2085508000.0,468173000.0,1112283000.0
-FICO,Fair Isaac Corporation,United States,Software - Application,2025,USD,1990869000.0,651946000.0,1637147000.0
-FICO,Fair Isaac Corporation,United States,Software - Application,2024,USD,1717526000.0,512811000.0,1369320000.0
-FICO,Fair Isaac Corporation,United States,Software - Application,2023,USD,1513557000.0,429375000.0,1202504000.0
-FAST,Fastenal Company,United States,Industrial Distribution,2024,USD,7546000000.0,1150600000.0,3401900000.0
-FAST,Fastenal Company,United States,Industrial Distribution,2023,USD,7346700000.0,1155000000.0,3354500000.0
-FAST,Fastenal Company,United States,Industrial Distribution,2022,USD,6980600000.0,1086900000.0,3215800000.0
-FRT,Federal Realty Investment Trust,United States,REIT - Retail,2024,USD,1202452000.0,295208000.0,810653000.0
-FRT,Federal Realty Investment Trust,United States,REIT - Retail,2023,USD,1132154000.0,236985000.0,769059000.0
-FRT,Federal Realty Investment Trust,United States,REIT - Retail,2022,USD,1074378000.0,385491000.0,717596000.0
-FDX,FedEx Corporation,United States,Integrated Freight & Logistics,2025,USD,87926000000.0,4092000000.0,18995000000.0
-FDX,FedEx Corporation,United States,Integrated Freight & Logistics,2024,USD,87693000000.0,4331000000.0,18952000000.0
-FDX,FedEx Corporation,United States,Integrated Freight & Logistics,2023,USD,90155000000.0,3972000000.0,19166000000.0
-FIS,"Fidelity National Information Services, Inc.",United States,Information Technology Services,2024,USD,10127000000.0,1450000000.0,3804000000.0
-FIS,"Fidelity National Information Services, Inc.",United States,Information Technology Services,2023,USD,9831000000.0,-6655000000.0,3656000000.0
-FIS,"Fidelity National Information Services, Inc.",United States,Information Technology Services,2022,USD,9720000000.0,-16752000000.0,3461000000.0
-FITB,Fifth Third Bancorp,United States,Banks - Regional,2024,USD,8253000000.0,2314000000.0,
-FITB,Fifth Third Bancorp,United States,Banks - Regional,2023,USD,8422000000.0,2349000000.0,
-FITB,Fifth Third Bancorp,United States,Banks - Regional,2022,USD,8102000000.0,2446000000.0,
-FSLR,"First Solar, Inc.",United States,Solar,2024,USD,4206289000.0,1292044000.0,1857864000.0
-FSLR,"First Solar, Inc.",United States,Solar,2023,USD,3318602000.0,830777000.0,1300679000.0
-FSLR,"First Solar, Inc.",United States,Solar,2022,USD,2619319000.0,-44166000.0,69858000.0
-FE,FirstEnergy Corp.,United States,Utilities - Regulated Electric,2024,USD,13472000000.0,978000000.0,9096000000.0
-FE,FirstEnergy Corp.,United States,Utilities - Regulated Electric,2023,USD,12870000000.0,1102000000.0,8224000000.0
-FE,FirstEnergy Corp.,United States,Utilities - Regulated Electric,2022,USD,12459000000.0,406000000.0,7866000000.0
-FISV,"Fiserv, Inc.",Unknown,Unknown,2024,USD,20456000000.0,3131000000.0,12443000000.0
-FISV,"Fiserv, Inc.",Unknown,Unknown,2023,USD,19093000000.0,3068000000.0,11423000000.0
-FISV,"Fiserv, Inc.",Unknown,Unknown,2022,USD,17737000000.0,2530000000.0,9745000000.0
-F,Ford Motor Company,United States,Auto Manufacturers,2024,USD,184992000000.0,5879000000.0,15506000000.0
-F,Ford Motor Company,United States,Auto Manufacturers,2023,USD,176191000000.0,4347000000.0,16160000000.0
-F,Ford Motor Company,United States,Auto Manufacturers,2022,USD,158057000000.0,-1981000000.0,17164000000.0
-FTNT,"Fortinet, Inc.",United States,Software - Infrastructure,2024,USD,5955800000.0,1745200000.0,4798200000.0
-FTNT,"Fortinet, Inc.",United States,Software - Infrastructure,2023,USD,5304800000.0,1147800000.0,4067600000.0
-FTNT,"Fortinet, Inc.",United States,Software - Infrastructure,2022,USD,4417400000.0,857300000.0,3332500000.0
-FTV,Fortive Corporation,United States,Scientific & Technical Instruments,2024,USD,6231800000.0,832900000.0,3731000000.0
-FTV,Fortive Corporation,United States,Scientific & Technical Instruments,2023,USD,6065300000.0,865800000.0,3594100000.0
-FTV,Fortive Corporation,United States,Scientific & Technical Instruments,2022,USD,5825700000.0,755200000.0,3363400000.0
+Symbol,Company Name,Country,Industry,Year,Revenue Unit,Total Revenue,Net Income,Gross Profit,Operating Income,Pretax Income
+MMM,3M Company,United States,Conglomerates,2024,USD,24575000000.0,4173000000.0,10128000000.0,4822000000.0,4819000000.0
+MMM,3M Company,United States,Conglomerates,2023,USD,24610000000.0,-6995000000.0,9627000000.0,-10725000000.0,-11271000000.0
+MMM,3M Company,United States,Conglomerates,2022,USD,34229000000.0,5777000000.0,14997000000.0,4086000000.0,6392000000.0
+AOS,A. O. Smith Corporation,United States,Specialty Industrial Machinery,2024,USD,3818100000.0,533600000.0,1456100000.0,716800000.0,701000000.0
+AOS,A. O. Smith Corporation,United States,Specialty Industrial Machinery,2023,USD,3852800000.0,556600000.0,1484800000.0,757400000.0,733500000.0
+AOS,A. O. Smith Corporation,United States,Specialty Industrial Machinery,2022,USD,3753900000.0,235700000.0,1329600000.0,658700000.0,223700000.0
+ABT,Abbott Laboratories,United States,Medical Devices,2024,USD,41950000000.0,13402000000.0,23244000000.0,6825000000.0,7013000000.0
+ABT,Abbott Laboratories,United States,Medical Devices,2023,USD,40109000000.0,5723000000.0,22134000000.0,6478000000.0,6664000000.0
+ABT,Abbott Laboratories,United States,Medical Devices,2022,USD,43653000000.0,6933000000.0,24511000000.0,8362000000.0,8306000000.0
+ABBV,AbbVie Inc.,United States,Drug Manufacturers - General,2024,USD,56334000000.0,4278000000.0,39430000000.0,11894000000.0,3716000000.0
+ABBV,AbbVie Inc.,United States,Drug Manufacturers - General,2023,USD,54318000000.0,4863000000.0,33903000000.0,13535000000.0,6250000000.0
+ABBV,AbbVie Inc.,United States,Drug Manufacturers - General,2022,USD,58054000000.0,11836000000.0,40640000000.0,18814000000.0,13477000000.0
+ACN,Accenture plc,Ireland,Information Technology Services,2025,USD,69672977000.0,7678433000.0,22235401000.0,10225664000.0,10270393000.0
+ACN,Accenture plc,Ireland,Information Technology Services,2024,USD,64896464000.0,7264787000.0,21162317000.0,9595847000.0,9699323000.0
+ACN,Accenture plc,Ireland,Information Technology Services,2023,USD,64111745000.0,6871557000.0,20731607000.0,8809889000.0,9139332000.0
+ADBE,Adobe Inc.,United States,Software - Application,2024,USD,21505000000.0,5560000000.0,19147000000.0,7741000000.0,6931000000.0
+ADBE,Adobe Inc.,United States,Software - Application,2023,USD,19409000000.0,5428000000.0,17055000000.0,6650000000.0,6799000000.0
+ADBE,Adobe Inc.,United States,Software - Application,2022,USD,17606000000.0,4756000000.0,15441000000.0,6098000000.0,6008000000.0
+AMD,"Advanced Micro Devices, Inc.",United States,Semiconductors,2024,USD,25785000000.0,1641000000.0,12725000000.0,2086000000.0,1989000000.0
+AMD,"Advanced Micro Devices, Inc.",United States,Semiconductors,2023,USD,22680000000.0,854000000.0,10460000000.0,401000000.0,492000000.0
+AMD,"Advanced Micro Devices, Inc.",United States,Semiconductors,2022,USD,23601000000.0,1320000000.0,10603000000.0,1264000000.0,1184000000.0
+AES,The AES Corporation,United States,Utilities - Diversified,2024,USD,12278000000.0,1679000000.0,2314000000.0,2026000000.0,894000000.0
+AES,The AES Corporation,United States,Utilities - Diversified,2023,USD,12668000000.0,249000000.0,2504000000.0,2249000000.0,104000000.0
+AES,The AES Corporation,United States,Utilities - Diversified,2022,USD,12617000000.0,-546000000.0,2548000000.0,2341000000.0,-169000000.0
+AFL,Aflac Incorporated,United States,Insurance - Life,2024,USD,19128000000.0,5443000000.0,,,6417000000.0
+AFL,Aflac Incorporated,United States,Insurance - Life,2023,USD,18841000000.0,4659000000.0,,,5262000000.0
+AFL,Aflac Incorporated,United States,Insurance - Life,2022,USD,19151000000.0,4418000000.0,,,4869000000.0
+A,"Agilent Technologies, Inc.",United States,Diagnostics & Research,2024,USD,6510000000.0,1289000000.0,3535000000.0,1488000000.0,1521000000.0
+A,"Agilent Technologies, Inc.",United States,Diagnostics & Research,2023,USD,6833000000.0,1240000000.0,3465000000.0,1350000000.0,1339000000.0
+A,"Agilent Technologies, Inc.",United States,Diagnostics & Research,2022,USD,6848000000.0,1254000000.0,3722000000.0,1618000000.0,1504000000.0
+APD,"Air Products and Chemicals, Inc.",United States,Specialty Chemicals,2025,USD,12037300000.0,-394500000.0,3781300000.0,2889000000.0,-440700000.0
+APD,"Air Products and Chemicals, Inc.",United States,Specialty Chemicals,2024,USD,12100600000.0,3828200000.0,3931900000.0,2947500000.0,4821200000.0
+APD,"Air Products and Chemicals, Inc.",United States,Specialty Chemicals,2023,USD,12600000000.0,2300200000.0,3767000000.0,2739200000.0,2882400000.0
+ABNB,"Airbnb, Inc.",United States,Travel Services,2024,USD,11102000000.0,2648000000.0,9224000000.0,2553000000.0,3331000000.0
+ABNB,"Airbnb, Inc.",United States,Travel Services,2023,USD,9917000000.0,4792000000.0,8214000000.0,1518000000.0,2102000000.0
+ABNB,"Airbnb, Inc.",United States,Travel Services,2022,USD,8399000000.0,1893000000.0,6900000000.0,1891000000.0,1989000000.0
+AKAM,"Akamai Technologies, Inc.",United States,Software - Infrastructure,2024,USD,3991168000.0,504918000.0,2370375000.0,636354000.0,587013000.0
+AKAM,"Akamai Technologies, Inc.",United States,Software - Infrastructure,2023,USD,3811920000.0,547629000.0,2300857000.0,703418000.0,652527000.0
+AKAM,"Akamai Technologies, Inc.",United States,Software - Infrastructure,2022,USD,3616654000.0,523672000.0,2232835000.0,711040000.0,658003000.0
+ALB,Albemarle Corporation,United States,Specialty Chemicals,2024,USD,5377526000.0,-1179449000.0,62539000.0,-642229000.0,-1763825000.0
+ALB,Albemarle Corporation,United States,Specialty Chemicals,2023,USD,9617203000.0,1573476000.0,1185909000.0,190182000.0,246738000.0
+ALB,Albemarle Corporation,United States,Specialty Chemicals,2022,USD,7320104000.0,2689816000.0,3074587000.0,2478461000.0,2433444000.0
+ARE,"Alexandria Real Estate Equities, Inc.",United States,REIT - Office,2024,USD,3049706000.0,322949000.0,2140441000.0,769702000.0,510733000.0
+ARE,"Alexandria Real Estate Equities, Inc.",United States,REIT - Office,2023,USD,2842456000.0,103639000.0,1983276000.0,690449000.0,280994000.0
+ARE,"Alexandria Real Estate Equities, Inc.",United States,REIT - Office,2022,USD,2576040000.0,521660000.0,1792887000.0,613463000.0,670701000.0
+ALGN,"Align Technology, Inc.",United States,Medical Instruments & Supplies,2024,USD,3999012000.0,421362000.0,2799159000.0,671764000.0,608959000.0
+ALGN,"Align Technology, Inc.",United States,Medical Instruments & Supplies,2023,USD,3862260000.0,445053000.0,2706863000.0,656654000.0,641204000.0
+ALGN,"Align Technology, Inc.",United States,Medical Instruments & Supplies,2022,USD,3734635000.0,361573000.0,2633775000.0,654048000.0,599057000.0
+ALLE,Allegion plc,Ireland,Security & Protection Services,2024,USD,3772200000.0,597500000.0,1668500000.0,780700000.0,698800000.0
+ALLE,Allegion plc,Ireland,Security & Protection Services,2023,USD,3650800000.0,540400000.0,1581500000.0,715900000.0,617200000.0
+ALLE,Allegion plc,Ireland,Security & Protection Services,2022,USD,3271900000.0,458000000.0,1322400000.0,586400000.0,514500000.0
+LNT,Alliant Energy Corporation,United States,Utilities - Regulated Electric,2024,USD,3981000000.0,690000000.0,1780000000.0,886000000.0,576000000.0
+LNT,Alliant Energy Corporation,United States,Utilities - Regulated Electric,2023,USD,4027000000.0,703000000.0,1734000000.0,943000000.0,707000000.0
+LNT,Alliant Energy Corporation,United States,Utilities - Regulated Electric,2022,USD,4205000000.0,686000000.0,1709000000.0,928000000.0,708000000.0
+ALL,The Allstate Corporation,United States,Insurance - Property & Casualty,2024,USD,63515000000.0,4667000000.0,,,5761000000.0
+ALL,The Allstate Corporation,United States,Insurance - Property & Casualty,2023,USD,56591000000.0,-188000000.0,,,-348000000.0
+ALL,The Allstate Corporation,United States,Insurance - Property & Casualty,2022,USD,50617000000.0,-1289000000.0,,,-1830000000.0
+GOOGL,Alphabet Inc.,United States,Internet Content & Information,2024,USD,350018000000.0,100118000000.0,203712000000.0,112390000000.0,119815000000.0
+GOOGL,Alphabet Inc.,United States,Internet Content & Information,2023,USD,307394000000.0,73795000000.0,174062000000.0,84293000000.0,85717000000.0
+GOOGL,Alphabet Inc.,United States,Internet Content & Information,2022,USD,282836000000.0,59972000000.0,156633000000.0,74842000000.0,71328000000.0
+GOOG,Alphabet Inc.,United States,Internet Content & Information,2024,USD,350018000000.0,100118000000.0,203712000000.0,112390000000.0,119815000000.0
+GOOG,Alphabet Inc.,United States,Internet Content & Information,2023,USD,307394000000.0,73795000000.0,174062000000.0,84293000000.0,85717000000.0
+GOOG,Alphabet Inc.,United States,Internet Content & Information,2022,USD,282836000000.0,59972000000.0,156633000000.0,74842000000.0,71328000000.0
+MO,"Altria Group, Inc.",United States,Tobacco,2024,USD,20444000000.0,11264000000.0,14367000000.0,11630000000.0,13658000000.0
+MO,"Altria Group, Inc.",United States,Tobacco,2023,USD,20502000000.0,8130000000.0,14284000000.0,11547000000.0,10928000000.0
+MO,"Altria Group, Inc.",United States,Tobacco,2022,USD,20688000000.0,5764000000.0,14246000000.0,11919000000.0,7389000000.0
+AMZN,"Amazon.com, Inc.",United States,Internet Retail,2024,USD,637959000000.0,59248000000.0,311671000000.0,68593000000.0,68614000000.0
+AMZN,"Amazon.com, Inc.",United States,Internet Retail,2023,USD,574785000000.0,30425000000.0,270046000000.0,36852000000.0,37557000000.0
+AMZN,"Amazon.com, Inc.",United States,Internet Retail,2022,USD,513983000000.0,-2722000000.0,225152000000.0,12248000000.0,-5936000000.0
+AMCR,Amcor plc,Switzerland,Packaging & Containers,2025,USD,15009000000.0,511000000.0,2834000000.0,1316000000.0,650000000.0
+AMCR,Amcor plc,Switzerland,Packaging & Containers,2024,USD,13640000000.0,730000000.0,2712000000.0,1311000000.0,907000000.0
+AMCR,Amcor plc,Switzerland,Packaging & Containers,2023,USD,14694000000.0,1048000000.0,2725000000.0,1404000000.0,1251000000.0
+AEE,Ameren Corporation,United States,Utilities - Regulated Electric,2024,USD,7623000000.0,1182000000.0,3653000000.0,1516000000.0,1270000000.0
+AEE,Ameren Corporation,United States,Utilities - Regulated Electric,2023,USD,7500000000.0,1152000000.0,3467000000.0,1558000000.0,1340000000.0
+AEE,Ameren Corporation,United States,Utilities - Regulated Electric,2022,USD,7957000000.0,1074000000.0,3343000000.0,1515000000.0,1255000000.0
+AEP,"American Electric Power Company, Inc.",United States,Utilities - Regulated Electric,2024,USD,19721300000.0,2967100000.0,12459900000.0,4446100000.0,2842900000.0
+AEP,"American Electric Power Company, Inc.",United States,Utilities - Regulated Electric,2023,USD,18982300000.0,2208100000.0,11127700000.0,3734500000.0,2208700000.0
+AEP,"American Electric Power Company, Inc.",United States,Utilities - Regulated Electric,2022,USD,19639500000.0,2307200000.0,11292200000.0,3778500000.0,2420400000.0
+AXP,American Express Company,United States,Credit Services,2024,USD,65949000000.0,10129000000.0,,,12895000000.0
+AXP,American Express Company,United States,Credit Services,2023,USD,60515000000.0,8374000000.0,,,10513000000.0
+AXP,American Express Company,United States,Credit Services,2022,USD,52862000000.0,7514000000.0,,,9585000000.0
+AIG,"American International Group, Inc.",United States,Insurance - Diversified,2024,USD,27270000000.0,-1404000000.0,,,3870000000.0
+AIG,"American International Group, Inc.",United States,Insurance - Diversified,2023,USD,27959000000.0,3643000000.0,,,2867000000.0
+AIG,"American International Group, Inc.",United States,Insurance - Diversified,2022,USD,29975000000.0,10227000000.0,,,3772000000.0
+AMT,American Tower Corporation,United States,REIT - Specialty,2024,USD,10127200000.0,2255000000.0,7552800000.0,4603000000.0,3624800000.0
+AMT,American Tower Corporation,United States,REIT - Specialty,2023,USD,10012200000.0,1483300000.0,7450700000.0,3536800000.0,1529300000.0
+AMT,American Tower Corporation,United States,REIT - Specialty,2022,USD,9645400000.0,1765800000.0,7076200000.0,2922700000.0,2086000000.0
+AWK,"American Water Works Company, Inc.",United States,Utilities - Regulated Water,2024,USD,4684000000.0,1051000000.0,2826000000.0,1718000000.0,1359000000.0
+AWK,"American Water Works Company, Inc.",United States,Utilities - Regulated Water,2023,USD,4234000000.0,944000000.0,2514000000.0,1504000000.0,1196000000.0
+AWK,"American Water Works Company, Inc.",United States,Utilities - Regulated Water,2022,USD,3792000000.0,820000000.0,2203000000.0,1273000000.0,1008000000.0
+AMP,"Ameriprise Financial, Inc.",United States,Asset Management,2024,USD,17264000000.0,3401000000.0,,,4267000000.0
+AMP,"Ameriprise Financial, Inc.",United States,Asset Management,2023,USD,15535000000.0,2556000000.0,,,3234000000.0
+AMP,"Ameriprise Financial, Inc.",United States,Asset Management,2022,USD,14258000000.0,3149000000.0,,,3931000000.0
+AME,"AMETEK, Inc.",United States,Specialty Industrial Machinery,2024,USD,6941180000.0,1376124000.0,2476467000.0,1779562000.0,1661539000.0
+AME,"AMETEK, Inc.",United States,Specialty Industrial Machinery,2023,USD,6596950000.0,1313188000.0,2384465000.0,1707459000.0,1606412000.0
+AME,"AMETEK, Inc.",United States,Specialty Industrial Machinery,2022,USD,6150530000.0,1159542000.0,2145269000.0,1500692000.0,1428692000.0
+AMGN,Amgen Inc.,United States,Drug Manufacturers - General,2024,USD,33424000000.0,4090000000.0,20566000000.0,7258000000.0,4609000000.0
+AMGN,Amgen Inc.,United States,Drug Manufacturers - General,2023,USD,28190000000.0,6717000000.0,19739000000.0,7897000000.0,7855000000.0
+AMGN,Amgen Inc.,United States,Drug Manufacturers - General,2022,USD,26323000000.0,6552000000.0,19917000000.0,9566000000.0,7346000000.0
+APH,Amphenol Corporation,United States,Electronic Components,2024,USD,15222700000.0,2424000000.0,5139700000.0,3284300000.0,3011900000.0
+APH,Amphenol Corporation,United States,Electronic Components,2023,USD,12554700000.0,1928000000.0,4084100000.0,2594200000.0,2454800000.0
+APH,Amphenol Corporation,United States,Electronic Components,2022,USD,12623000000.0,1902300000.0,4028200000.0,2607300000.0,2467400000.0
+ADI,"Analog Devices, Inc.",United States,Semiconductors,2025,USD,11019707000.0,2267342000.0,6773478000.0,3002476000.0,2712112000.0
+ADI,"Analog Devices, Inc.",United States,Semiconductors,2024,USD,9427157000.0,1635273000.0,5381343000.0,2070056000.0,1777340000.0
+ADI,"Analog Devices, Inc.",United States,Semiconductors,2023,USD,12305539000.0,3314579000.0,7877218000.0,3983822000.0,3608003000.0
+AON,Aon plc,Ireland,Insurance Brokers,2024,USD,15698000000.0,2654000000.0,7415000000.0,4176000000.0,3462000000.0
+AON,Aon plc,Ireland,Insurance Brokers,2023,USD,13376000000.0,2564000000.0,6474000000.0,3822000000.0,3169000000.0
+AON,Aon plc,Ireland,Insurance Brokers,2022,USD,12479000000.0,2589000000.0,6002000000.0,3490000000.0,3156000000.0
+APA,APA Corporation,United States,Oil & Gas E&P,2024,USD,9737000000.0,804000000.0,4302000000.0,3199000000.0,1535000000.0
+APA,APA Corporation,United States,Oil & Gas E&P,2023,USD,8279000000.0,2855000000.0,4227000000.0,3358000000.0,2883000000.0
+APA,APA Corporation,United States,Oil & Gas E&P,2022,USD,11075000000.0,3604000000.0,6255000000.0,5082000000.0,5734000000.0
+APO,"Apollo Global Management, Inc.",United States,Asset Management,2024,USD,26114000000.0,4577000000.0,24974000000.0,8299000000.0,7435000000.0
+APO,"Apollo Global Management, Inc.",United States,Asset Management,2023,USD,32644000000.0,5047000000.0,31617000000.0,6146000000.0,5586000000.0
+APO,"Apollo Global Management, Inc.",United States,Asset Management,2022,USD,10968000000.0,-1961000000.0,10041000000.0,-4375000000.0,-4246000000.0
+AAPL,Apple Inc.,United States,Consumer Electronics,2025,USD,416161000000.0,112010000000.0,195201000000.0,133050000000.0,132729000000.0
+AAPL,Apple Inc.,United States,Consumer Electronics,2024,USD,391035000000.0,93736000000.0,180683000000.0,123216000000.0,123485000000.0
+AAPL,Apple Inc.,United States,Consumer Electronics,2023,USD,383285000000.0,96995000000.0,169148000000.0,114301000000.0,113736000000.0
+AMAT,"Applied Materials, Inc.",United States,Semiconductor Equipment & Materials,2025,USD,,,,,
+AMAT,"Applied Materials, Inc.",United States,Semiconductor Equipment & Materials,2024,USD,27176000000.0,7177000000.0,12897000000.0,7867000000.0,8152000000.0
+AMAT,"Applied Materials, Inc.",United States,Semiconductor Equipment & Materials,2023,USD,26517000000.0,6856000000.0,12384000000.0,7654000000.0,7716000000.0
+APP,AppLovin Corporation,United States,Advertising Agencies,2024,USD,4709248000.0,1579776000.0,3542442000.0,1873459000.0,1576005000.0
+APP,AppLovin Corporation,United States,Advertising Agencies,2023,USD,3283087000.0,356711000.0,2223896000.0,648207000.0,380570000.0
+APP,AppLovin Corporation,United States,Advertising Agencies,2022,USD,2817058000.0,-192746000.0,1560993000.0,-47791000.0,-205177000.0
+APTV,Aptiv PLC,Switzerland,Auto Parts,2024,USD,19713000000.0,1787000000.0,3711000000.0,2035000000.0,2151000000.0
+APTV,Aptiv PLC,Switzerland,Auto Parts,2023,USD,20051000000.0,2938000000.0,3439000000.0,1770000000.0,1337000000.0
+APTV,Aptiv PLC,Switzerland,Auto Parts,2022,USD,17489000000.0,594000000.0,2635000000.0,1348000000.0,990000000.0
+ACGL,Arch Capital Group Ltd.,Bermuda,Insurance - Diversified,2024,USD,16930000000.0,4312000000.0,,,4474000000.0
+ACGL,Arch Capital Group Ltd.,Bermuda,Insurance - Diversified,2023,USD,13297000000.0,4443000000.0,,,3385000000.0
+ACGL,Arch Capital Group Ltd.,Bermuda,Insurance - Diversified,2022,USD,9613000000.0,1476000000.0,,,1487000000.0
+ADM,Archer-Daniels-Midland Company,United States,Farm Products,2024,USD,85530000000.0,1800000000.0,5778000000.0,2072000000.0,2255000000.0
+ADM,Archer-Daniels-Midland Company,United States,Farm Products,2023,USD,93935000000.0,3483000000.0,7513000000.0,4057000000.0,4294000000.0
+ADM,Archer-Daniels-Midland Company,United States,Farm Products,2022,USD,101556000000.0,4340000000.0,7570000000.0,4212000000.0,5233000000.0
+ANET,Arista Networks Inc,United States,Computer Hardware,2024,USD,7003146000.0,2852054000.0,4491303000.0,2944616000.0,3265034000.0
+ANET,Arista Networks Inc,United States,Computer Hardware,2023,USD,5860168000.0,2087321000.0,3630281000.0,2257249000.0,2422026000.0
+ANET,Arista Networks Inc,United States,Computer Hardware,2022,USD,4381310000.0,1352446000.0,2675696000.0,1527106000.0,1581796000.0
+AJG,Arthur J. Gallagher & Co.,United States,Insurance Brokers,2024,USD,11554900000.0,1462700000.0,4878300000.0,2282100000.0,1874800000.0
+AJG,Arthur J. Gallagher & Co.,United States,Insurance Brokers,2023,USD,10071900000.0,969500000.0,4245300000.0,1859100000.0,1185100000.0
+AJG,Arthur J. Gallagher & Co.,United States,Insurance Brokers,2022,USD,8550600000.0,1114200000.0,3597400000.0,1666900000.0,1327000000.0
+AIZ,"Assurant, Inc.",United States,Insurance - Property & Casualty,2024,USD,11877500000.0,760200000.0,,,927300000.0
+AIZ,"Assurant, Inc.",United States,Insurance - Property & Casualty,2023,USD,11131600000.0,642500000.0,,,806800000.0
+AIZ,"Assurant, Inc.",United States,Insurance - Property & Casualty,2022,USD,10193000000.0,276600000.0,,,349900000.0
+T,AT&T Inc.,United States,Telecom Services,2024,USD,122336000000.0,10948000000.0,73115000000.0,24124000000.0,16698000000.0
+T,AT&T Inc.,United States,Telecom Services,2023,USD,122428000000.0,14400000000.0,72305000000.0,24654000000.0,19848000000.0
+T,AT&T Inc.,United States,Telecom Services,2022,USD,120741000000.0,-8524000000.0,69893000000.0,22911000000.0,-3094000000.0
+ATO,Atmos Energy Corporation,United States,Utilities - Regulated Gas,2025,USD,4702755000.0,1198754000.0,2733759000.0,1559971000.0,1478034000.0
+ATO,Atmos Energy Corporation,United States,Utilities - Regulated Gas,2024,USD,4165187000.0,1042895000.0,2412357000.0,1355362000.0,1235776000.0
+ATO,Atmos Energy Corporation,United States,Utilities - Regulated Gas,2023,USD,4275357000.0,885862000.0,2058278000.0,1067147000.0,999641000.0
+ADSK,"Autodesk, Inc.",United States,Software - Application,2025,USD,6131000000.0,1112000000.0,5553000000.0,1369000000.0,1384000000.0
+ADSK,"Autodesk, Inc.",United States,Software - Application,2024,USD,5497000000.0,906000000.0,4986000000.0,1128000000.0,1136000000.0
+ADSK,"Autodesk, Inc.",United States,Software - Application,2023,USD,5005000000.0,823000000.0,4525000000.0,989000000.0,946000000.0
+ADP,"Automatic Data Processing, Inc.",United States,Software - Application,2025,USD,20560900000.0,4079700000.0,9463600000.0,5411900000.0,5310100000.0
+ADP,"Automatic Data Processing, Inc.",United States,Software - Application,2024,USD,19202600000.0,3752000000.0,8725900000.0,4947000000.0,4872300000.0
+ADP,"Automatic Data Processing, Inc.",United States,Software - Application,2023,USD,18012200000.0,3412000000.0,8058800000.0,4507400000.0,4437600000.0
+AZO,"AutoZone, Inc.",United States,Auto Parts,2025,USD,18938717000.0,2498247000.0,9966474000.0,3610156000.0,3134332000.0
+AZO,"AutoZone, Inc.",United States,Auto Parts,2024,USD,18490268000.0,2662427000.0,9817052000.0,3788708000.0,3337130000.0
+AZO,"AutoZone, Inc.",United States,Auto Parts,2023,USD,17457209000.0,2528426000.0,9070422000.0,3473986000.0,3167614000.0
+AVB,"AvalonBay Communities, Inc.",United States,REIT - Residential,2024,USD,2913757000.0,1081994000.0,1840300000.0,915750000.0,1082620000.0
+AVB,"AvalonBay Communities, Inc.",United States,REIT - Residential,2023,USD,2767909000.0,928825000.0,1779777000.0,886278000.0,938591000.0
+AVB,"AvalonBay Communities, Inc.",United States,REIT - Residential,2022,USD,2593446000.0,1136775000.0,1674332000.0,785290000.0,1151084000.0
+AVY,Avery Dennison Corporation,United States,Packaging & Containers,2024,USD,8755700000.0,704900000.0,2530700000.0,1115400000.0,953500000.0
+AVY,Avery Dennison Corporation,United States,Packaging & Containers,2023,USD,8364300000.0,503000000.0,2277500000.0,963800000.0,694700000.0
+AVY,Avery Dennison Corporation,United States,Packaging & Containers,2022,USD,9039300000.0,757100000.0,2404200000.0,1073400000.0,999300000.0
+AXON,"Axon Enterprise, Inc.",United States,Aerospace & Defense,2024,USD,2082526000.0,377034000.0,1241380000.0,58540000.0,381504000.0
+AXON,"Axon Enterprise, Inc.",United States,Aerospace & Defense,2023,USD,1560699000.0,175783000.0,955453000.0,156850000.0,157061000.0
+AXON,"Axon Enterprise, Inc.",United States,Aerospace & Defense,2022,USD,1187143000.0,146930000.0,726113000.0,92973000.0,196238000.0
+BKR,Baker Hughes Company,United States,Oil & Gas Equipment & Services,2024,USD,27829000000.0,2979000000.0,5840000000.0,3382000000.0,3265000000.0
+BKR,Baker Hughes Company,United States,Oil & Gas Equipment & Services,2023,USD,25506000000.0,1943000000.0,5251000000.0,2640000000.0,2655000000.0
+BKR,Baker Hughes Company,United States,Oil & Gas Equipment & Services,2022,USD,21156000000.0,-601000000.0,4400000000.0,1890000000.0,22000000.0
+BALL,Ball Corporation,United States,Packaging & Containers,2024,USD,11795000000.0,4008000000.0,2441000000.0,1183000000.0,535000000.0
+BALL,Ball Corporation,United States,Packaging & Containers,2023,USD,12062000000.0,707000000.0,2308000000.0,1171000000.0,614000000.0
+BALL,Ball Corporation,United States,Packaging & Containers,2022,USD,13372000000.0,719000000.0,2250000000.0,1101000000.0,713000000.0
+BAC,Bank of America Corporation,United States,Banks - Diversified,2024,USD,101887000000.0,27132000000.0,,,29254000000.0
+BAC,Bank of America Corporation,United States,Banks - Diversified,2023,USD,98581000000.0,26515000000.0,,,28342000000.0
+BAC,Bank of America Corporation,United States,Banks - Diversified,2022,USD,94950000000.0,27528000000.0,,,30969000000.0
+BAX,Baxter International Inc.,United States,Medical Instruments & Supplies,2024,USD,10636000000.0,-649000000.0,3984000000.0,439000000.0,-289000000.0
+BAX,Baxter International Inc.,United States,Medical Instruments & Supplies,2023,USD,10360000000.0,2656000000.0,4150000000.0,707000000.0,242000000.0
+BAX,Baxter International Inc.,United States,Medical Instruments & Supplies,2022,USD,10057000000.0,-2433000000.0,3549000000.0,-33000000.0,-3248000000.0
+BDX,"Becton, Dickinson and Company",United States,Medical Instruments & Supplies,2025,USD,21840000000.0,1678000000.0,9925000000.0,2986000000.0,1881000000.0
+BDX,"Becton, Dickinson and Company",United States,Medical Instruments & Supplies,2024,USD,20178000000.0,1705000000.0,9125000000.0,2856000000.0,2005000000.0
+BDX,"Becton, Dickinson and Company",United States,Medical Instruments & Supplies,2023,USD,19372000000.0,1484000000.0,8170000000.0,2424000000.0,1662000000.0
+BRK-B,Berkshire Hathaway Inc.,United States,Insurance - Diversified,2024,USD,424232000000.0,88995000000.0,,,110376000000.0
+BRK-B,Berkshire Hathaway Inc.,United States,Insurance - Diversified,2023,USD,439337000000.0,96223000000.0,,,120166000000.0
+BRK-B,Berkshire Hathaway Inc.,United States,Insurance - Diversified,2022,USD,234121000000.0,-22759000000.0,,,-30500000000.0
+BBY,"Best Buy Co., Inc.",United States,Specialty Retail,2025,USD,41528000000.0,927000000.0,9385000000.0,1734000000.0,1295000000.0
+BBY,"Best Buy Co., Inc.",United States,Specialty Retail,2024,USD,43452000000.0,1241000000.0,9603000000.0,1727000000.0,1621000000.0
+BBY,"Best Buy Co., Inc.",United States,Specialty Retail,2023,USD,46298000000.0,1419000000.0,9912000000.0,1942000000.0,1788000000.0
+TECH,Bio-Techne Corporation,United States,Biotechnology,2025,USD,1219635000.0,73400000.0,790272000.0,242804000.0,98463000.0
+TECH,Bio-Techne Corporation,United States,Biotechnology,2024,USD,1159060000.0,168105000.0,769725000.0,246401000.0,185689000.0
+TECH,Bio-Techne Corporation,United States,Biotechnology,2023,USD,1136702000.0,285263000.0,769815000.0,290998000.0,338659000.0
+BIIB,Biogen Inc.,United States,Drug Manufacturers - General,2024,USD,9675900000.0,1632200000.0,7365500000.0,2218900000.0,1906000000.0
+BIIB,Biogen Inc.,United States,Drug Manufacturers - General,2023,USD,9835600000.0,1161100000.0,7302200000.0,1831100000.0,1296800000.0
+BIIB,Biogen Inc.,United States,Drug Manufacturers - General,2022,USD,10173400000.0,3046900000.0,7895100000.0,2901900000.0,3591800000.0
+BLK,"BlackRock, Inc.",United States,Asset Management,2024,USD,20407000000.0,6369000000.0,10086000000.0,7538000000.0,8295000000.0
+BLK,"BlackRock, Inc.",United States,Asset Management,2023,USD,17859000000.0,5502000000.0,8582000000.0,6333000000.0,7155000000.0
+BLK,"BlackRock, Inc.",United States,Asset Management,2022,USD,17873000000.0,5178000000.0,8684000000.0,6476000000.0,6290000000.0
+BX,Blackstone Inc.,United States,Asset Management,2024,USD,10930540000.0,2776508000.0,,,6459480000.0
+BX,Blackstone Inc.,United States,Asset Management,2023,USD,7006649000.0,1390880000.0,,,2957714000.0
+BX,Blackstone Inc.,United States,Asset Management,2022,USD,7132632000.0,1747631000.0,,,3461789000.0
+XYZ,"Block, Inc.",United States,Software - Infrastructure,2024,USD,24121053000.0,2897047000.0,8889036000.0,1686548000.0,1357154000.0
+XYZ,"Block, Inc.",United States,Software - Infrastructure,2023,USD,21915623000.0,9772000.0,7504886000.0,381824000.0,-29143000.0
+XYZ,"Block, Inc.",United States,Software - Infrastructure,2022,USD,17531587000.0,-540747000.0,5991892000.0,-27278000.0,-565317000.0
+BK,The Bank of New York Mellon Corporation,United States,Banks - Diversified,2024,USD,18258000000.0,4530000000.0,,,5848000000.0
+BK,The Bank of New York Mellon Corporation,United States,Banks - Diversified,2023,USD,17488000000.0,3302000000.0,,,4283000000.0
+BK,The Bank of New York Mellon Corporation,United States,Banks - Diversified,2022,USD,16186000000.0,2556000000.0,,,3480000000.0
+BA,The Boeing Company,United States,Aerospace & Defense,2024,USD,66517000000.0,-11817000000.0,-1991000000.0,-10824000000.0,-12210000000.0
+BA,The Boeing Company,United States,Aerospace & Defense,2023,USD,77794000000.0,-2222000000.0,7724000000.0,-821000000.0,-2005000000.0
+BA,The Boeing Company,United States,Aerospace & Defense,2022,USD,66608000000.0,-4935000000.0,3530000000.0,-3509000000.0,-5022000000.0
+BKNG,Booking Holdings Inc.,United States,Travel Services,2024,USD,23739000000.0,5882000000.0,,7555000000.0,7292000000.0
+BKNG,Booking Holdings Inc.,United States,Travel Services,2023,USD,21365000000.0,4289000000.0,,5835000000.0,5481000000.0
+BKNG,Booking Holdings Inc.,United States,Travel Services,2022,USD,17090000000.0,3058000000.0,,5102000000.0,3923000000.0
+BSX,Boston Scientific Corporation,United States,Medical Devices,2024,USD,16747000000.0,1854000000.0,11490000000.0,3002000000.0,2282000000.0
+BSX,Boston Scientific Corporation,United States,Medical Devices,2023,USD,14240000000.0,1593000000.0,9896000000.0,2418000000.0,1985000000.0
+BSX,Boston Scientific Corporation,United States,Medical Devices,2022,USD,12682000000.0,698000000.0,8727000000.0,2034000000.0,1141000000.0
+BMY,Bristol-Myers Squibb Company,United States,Drug Manufacturers - General,2024,USD,48300000000.0,-8948000000.0,34332000000.0,5887000000.0,-8379000000.0
+BMY,Bristol-Myers Squibb Company,United States,Drug Manufacturers - General,2023,USD,45006000000.0,8025000000.0,34313000000.0,8195000000.0,8440000000.0
+BMY,Bristol-Myers Squibb Company,United States,Drug Manufacturers - General,2022,USD,46159000000.0,6327000000.0,36022000000.0,9104000000.0,7713000000.0
+AVGO,Broadcom Inc.,United States,Semiconductors,2024,USD,51574000000.0,5895000000.0,32509000000.0,14996000000.0,9916000000.0
+AVGO,Broadcom Inc.,United States,Semiconductors,2023,USD,35819000000.0,14082000000.0,24690000000.0,16451000000.0,15097000000.0
+AVGO,Broadcom Inc.,United States,Semiconductors,2022,USD,33203000000.0,11495000000.0,22095000000.0,14282000000.0,12434000000.0
+BR,"Broadridge Financial Solutions, Inc.",United States,Information Technology Services,2025,USD,6889100000.0,839500000.0,2136800000.0,1188600000.0,1058700000.0
+BR,"Broadridge Financial Solutions, Inc.",United States,Information Technology Services,2024,USD,6506800000.0,698100000.0,1933900000.0,1017100000.0,877400000.0
+BR,"Broadridge Financial Solutions, Inc.",United States,Information Technology Services,2023,USD,6060900000.0,630600000.0,1785400000.0,936400000.0,794900000.0
+BRO,"Brown & Brown, Inc.",United States,Insurance Brokers,2024,USD,4705000000.0,993000000.0,2299000000.0,1367000000.0,1303000000.0
+BRO,"Brown & Brown, Inc.",United States,Insurance Brokers,2023,USD,4199000000.0,871000000.0,2012000000.0,1156000000.0,1146000000.0
+BRO,"Brown & Brown, Inc.",United States,Insurance Brokers,2022,USD,3563000000.0,672000000.0,1746000000.0,963000000.0,876000000.0
+BF-B,Brown-Forman Corporation,United States,Beverages - Wineries & Distilleries,2025,USD,3975000000.0,869000000.0,2343000000.0,1167000000.0,1081000000.0
+BF-B,Brown-Forman Corporation,United States,Beverages - Wineries & Distilleries,2024,USD,4178000000.0,1024000000.0,2526000000.0,1147000000.0,1298000000.0
+BF-B,Brown-Forman Corporation,United States,Beverages - Wineries & Distilleries,2023,USD,4228000000.0,783000000.0,2494000000.0,1127000000.0,1017000000.0
+BLDR,"Builders FirstSource, Inc.",United States,Building Products & Equipment,2024,USD,16400492000.0,1077898000.0,5383044000.0,1595249000.0,1387525000.0
+BLDR,"Builders FirstSource, Inc.",United States,Building Products & Equipment,2023,USD,17097330000.0,1540555000.0,6012334000.0,2176319000.0,1984204000.0
+BLDR,"Builders FirstSource, Inc.",United States,Building Products & Equipment,2022,USD,22726418000.0,2749369000.0,7744379000.0,3770206000.0,3571833000.0
+BG,Bunge Global SA,United States,Farm Products,2024,USD,53108000000.0,1137000000.0,3393000000.0,1617000000.0,1524000000.0
+BG,Bunge Global SA,United States,Farm Products,2023,USD,59540000000.0,2243000000.0,4845000000.0,3130000000.0,3051000000.0
+BG,Bunge Global SA,United States,Farm Products,2022,USD,67232000000.0,1610000000.0,3682000000.0,2313000000.0,2066000000.0
+BXP,"BXP, Inc.",United States,REIT - Office,2024,USD,3407719000.0,14272000.0,2085593000.0,1021931000.0,84188000.0
+BXP,"BXP, Inc.",United States,REIT - Office,2023,USD,3273569000.0,190215000.0,2057397000.0,1038655000.0,291424000.0
+BXP,"BXP, Inc.",United States,REIT - Office,2022,USD,3108581000.0,848947000.0,1973033000.0,1061430000.0,1020584000.0
+CHRW,"C.H. Robinson Worldwide, Inc.",United States,Integrated Freight & Logistics,2024,USD,17724956000.0,465690000.0,1308765000.0,669141000.0,579204000.0
+CHRW,"C.H. Robinson Worldwide, Inc.",United States,Integrated Freight & Logistics,2023,USD,17596443000.0,325129000.0,1138873000.0,514607000.0,409186000.0
+CHRW,"C.H. Robinson Worldwide, Inc.",United States,Integrated Freight & Logistics,2022,USD,24696625000.0,940524000.0,1870197000.0,1266782000.0,1166765000.0
+CDNS,"Cadence Design Systems, Inc.",United States,Software - Application,2024,USD,4641264000.0,1055484000.0,3993762000.0,1374528000.0,1395819000.0
+CDNS,"Cadence Design Systems, Inc.",United States,Software - Application,2023,USD,4089986000.0,1041144000.0,3654945000.0,1262238000.0,1281926000.0
+CDNS,"Cadence Design Systems, Inc.",United States,Software - Application,2022,USD,3561718000.0,848952000.0,3190095000.0,1073741000.0,1045363000.0
+CPT,Camden Property Trust,United States,REIT - Residential,2024,USD,1543842000.0,163293000.0,944506000.0,297264000.0,173766000.0
+CPT,Camden Property Trust,United States,REIT - Residential,2023,USD,1542027000.0,403309000.0,957684000.0,323816000.0,414203000.0
+CPT,Camden Property Trust,United States,REIT - Residential,2022,USD,1422756000.0,653613000.0,893558000.0,261313000.0,664474000.0
+CPB,The Campbell's Company,United States,Packaged Foods,2025,USD,10253000000.0,602000000.0,3119000000.0,1353000000.0,796000000.0
+CPB,The Campbell's Company,United States,Packaged Foods,2024,USD,9636000000.0,567000000.0,2971000000.0,1226000000.0,757000000.0
+CPB,The Campbell's Company,United States,Packaged Foods,2023,USD,9357000000.0,858000000.0,2917000000.0,1312000000.0,1128000000.0
+COF,Capital One Financial Corporation,United States,Credit Services,2024,USD,39112000000.0,4750000000.0,,,5910000000.0
+COF,Capital One Financial Corporation,United States,Credit Services,2023,USD,36787000000.0,4887000000.0,,,6045000000.0
+COF,Capital One Financial Corporation,United States,Credit Services,2022,USD,34250000000.0,7360000000.0,,,9240000000.0
+CAH,"Cardinal Health, Inc.",United States,Medical Distribution,2025,USD,222578000000.0,1561000000.0,8168000000.0,2322000000.0,2101000000.0
+CAH,"Cardinal Health, Inc.",United States,Medical Distribution,2024,USD,226827000000.0,852000000.0,7414000000.0,2130000000.0,1201000000.0
+CAH,"Cardinal Health, Inc.",United States,Medical Distribution,2023,USD,204979000000.0,330000000.0,6874000000.0,1789000000.0,663000000.0
+CCL,Carnival Corporation & plc,United States,Travel Services,2024,USD,25021000000.0,1916000000.0,9383000000.0,3574000000.0,1915000000.0
+CCL,Carnival Corporation & plc,United States,Travel Services,2023,USD,21593000000.0,-74000000.0,7276000000.0,1956000000.0,-62000000.0
+CCL,Carnival Corporation & plc,United States,Travel Services,2022,USD,12169000000.0,-6093000000.0,412000000.0,-4378000000.0,-6080000000.0
+CARR,Carrier Global Corporation,United States,Building Products & Equipment,2024,USD,22486000000.0,5604000000.0,5981000000.0,2098000000.0,2274000000.0
+CARR,Carrier Global Corporation,United States,Building Products & Equipment,2023,USD,18951000000.0,1349000000.0,5162000000.0,2062000000.0,1999000000.0
+CARR,Carrier Global Corporation,United States,Building Products & Equipment,2022,USD,17288000000.0,3534000000.0,4297000000.0,1904000000.0,3823000000.0
+CAT,Caterpillar Inc.,United States,Farm & Heavy Construction Machinery,2024,USD,64809000000.0,10792000000.0,23324000000.0,13072000000.0,13373000000.0
+CAT,Caterpillar Inc.,United States,Farm & Heavy Construction Machinery,2023,USD,67060000000.0,10335000000.0,23263000000.0,12966000000.0,13050000000.0
+CAT,Caterpillar Inc.,United States,Farm & Heavy Construction Machinery,2022,USD,59427000000.0,6705000000.0,17512000000.0,8829000000.0,8752000000.0
+CBOE,"Cboe Global Markets, Inc.",United States,Financial Data & Stock Exchanges,2024,USD,4094500000.0,764900000.0,2072400000.0,1180700000.0,1083800000.0
+CBOE,"Cboe Global Markets, Inc.",United States,Financial Data & Stock Exchanges,2023,USD,3773500000.0,761400000.0,1918000000.0,1065300000.0,1047600000.0
+CBOE,"Cboe Global Markets, Inc.",United States,Financial Data & Stock Exchanges,2022,USD,3958500000.0,235000000.0,1741700000.0,970400000.0,432900000.0
+CBRE,"CBRE Group, Inc.",United States,Real Estate Services,2024,USD,35767000000.0,968000000.0,6956000000.0,1271000000.0,1218000000.0
+CBRE,"CBRE Group, Inc.",United States,Real Estate Services,2023,USD,31949000000.0,986000000.0,6274000000.0,1090000000.0,1277000000.0
+CBRE,"CBRE Group, Inc.",United States,Real Estate Services,2022,USD,30828000000.0,1407000000.0,6589000000.0,1327000000.0,1658000000.0
+CDW,CDW Corporation,United States,Information Technology Services,2024,USD,20998700000.0,1077800000.0,4602400000.0,1651300000.0,1435400000.0
+CDW,CDW Corporation,United States,Information Technology Services,2023,USD,21376000000.0,1104300000.0,4652400000.0,1680900000.0,1450200000.0
+CDW,CDW Corporation,United States,Information Technology Services,2022,USD,23748700000.0,1114500000.0,4686600000.0,1735200000.0,1487800000.0
+COR,"Cencora, Inc.",United States,Medical Distribution,2025,USD,321332819000.0,1554169000.0,11478539000.0,3933622000.0,2258336000.0
+COR,"Cencora, Inc.",United States,Medical Distribution,2024,USD,293958599000.0,1509120000.0,9910029000.0,3156949000.0,2003975000.0
+COR,"Cencora, Inc.",United States,Medical Distribution,2023,USD,262173411000.0,1745293000.0,8959493000.0,2685605000.0,2160836000.0
+CNC,Centene Corporation,United States,Healthcare Plans,2024,USD,163071000000.0,3305000000.0,16829000000.0,3188000000.0,4257000000.0
+CNC,Centene Corporation,United States,Healthcare Plans,2023,USD,153999000000.0,2702000000.0,17315000000.0,3459000000.0,3598000000.0
+CNC,Centene Corporation,United States,Healthcare Plans,2022,USD,144547000000.0,1202000000.0,16656000000.0,3636000000.0,1962000000.0
+CNP,"CenterPoint Energy, Inc.",United States,Utilities - Regulated Electric,2024,USD,8643000000.0,1019000000.0,3976000000.0,1990000000.0,1214000000.0
+CNP,"CenterPoint Energy, Inc.",United States,Utilities - Regulated Electric,2023,USD,8696000000.0,917000000.0,3686000000.0,1760000000.0,1087000000.0
+CNP,"CenterPoint Energy, Inc.",United States,Utilities - Regulated Electric,2022,USD,9321000000.0,1057000000.0,3397000000.0,1566000000.0,1417000000.0
+CF,"CF Industries Holdings, Inc.",United States,Agricultural Inputs,2024,USD,5936000000.0,1218000000.0,2056000000.0,1711000000.0,1762000000.0
+CF,"CF Industries Holdings, Inc.",United States,Agricultural Inputs,2023,USD,6631000000.0,1525000000.0,2545000000.0,2252000000.0,2248000000.0
+CF,"CF Industries Holdings, Inc.",United States,Agricultural Inputs,2022,USD,11186000000.0,3346000000.0,5861000000.0,5571000000.0,5095000000.0
+CRL,"Charles River Laboratories International, Inc.",United States,Diagnostics & Research,2024,USD,4049989000.0,10297000.0,1331821000.0,442347000.0,93114000.0
+CRL,"Charles River Laboratories International, Inc.",United States,Diagnostics & Research,2023,USD,4129409000.0,474624000.0,1502556000.0,617261000.0,581284000.0
+CRL,"Charles River Laboratories International, Inc.",United States,Diagnostics & Research,2022,USD,3976060000.0,486226000.0,1462651000.0,650975000.0,622987000.0
+SCHW,The Charles Schwab Corporation,United States,Capital Markets,2024,USD,19606000000.0,5942000000.0,,,7692000000.0
+SCHW,The Charles Schwab Corporation,United States,Capital Markets,2023,USD,18837000000.0,5067000000.0,,,6378000000.0
+SCHW,The Charles Schwab Corporation,United States,Capital Markets,2022,USD,20762000000.0,7183000000.0,,,9388000000.0
+CHTR,"Charter Communications, Inc.",United States,Telecom Services,2024,USD,55085000000.0,5083000000.0,30777000000.0,13245000000.0,7502000000.0
+CHTR,"Charter Communications, Inc.",United States,Telecom Services,2023,USD,54607000000.0,4557000000.0,29967000000.0,12506000000.0,6854000000.0
+CHTR,"Charter Communications, Inc.",United States,Telecom Services,2022,USD,54022000000.0,5055000000.0,29511000000.0,12243000000.0,7462000000.0
+CVX,Chevron Corporation,United States,Oil & Gas Integrated,2024,USD,193414000000.0,17661000000.0,56926000000.0,18917000000.0,27506000000.0
+CVX,Chevron Corporation,United States,Oil & Gas Integrated,2023,USD,196913000000.0,21369000000.0,60391000000.0,26229000000.0,29584000000.0
+CVX,Chevron Corporation,United States,Oil & Gas Integrated,2022,USD,235717000000.0,35465000000.0,73982000000.0,39950000000.0,49674000000.0
+CMG,"Chipotle Mexican Grill, Inc.",United States,Restaurants,2024,USD,11313853000.0,1534110000.0,3017692000.0,1985179000.0,2010230000.0
+CMG,"Chipotle Mexican Grill, Inc.",United States,Restaurants,2023,USD,9871649000.0,1228737000.0,2586092000.0,1633114000.0,1620506000.0
+CMG,"Chipotle Mexican Grill, Inc.",United States,Restaurants,2022,USD,8634652000.0,899101000.0,2062119000.0,1211102000.0,1181531000.0
+CB,Chubb Limited,Switzerland,Insurance - Property & Casualty,2024,USD,56150000000.0,9272000000.0,,,11455000000.0
+CB,Chubb Limited,Switzerland,Insurance - Property & Casualty,2023,USD,50133000000.0,9028000000.0,,,9526000000.0
+CB,Chubb Limited,Switzerland,Insurance - Property & Casualty,2022,USD,42975000000.0,5246000000.0,,,6485000000.0
+CHD,"Church & Dwight Co., Inc.",United States,Household & Personal Products,2024,USD,6107100000.0,585300000.0,2790100000.0,1164200000.0,756300000.0
+CHD,"Church & Dwight Co., Inc.",United States,Household & Personal Products,2023,USD,5867900000.0,755600000.0,2588500000.0,1057400000.0,967400000.0
+CHD,"Church & Dwight Co., Inc.",United States,Household & Personal Products,2022,USD,5375600000.0,413900000.0,2250000000.0,1008800000.0,523300000.0
+CI,The Cigna Group,United States,Healthcare Plans,2024,USD,244384000000.0,3434000000.0,,,5269000000.0
+CI,The Cigna Group,United States,Healthcare Plans,2023,USD,195187000000.0,5164000000.0,,,5513000000.0
+CI,The Cigna Group,United States,Healthcare Plans,2022,USD,180031000000.0,6704000000.0,,,8397000000.0
+CINF,Cincinnati Financial Corporation,United States,Insurance - Property & Casualty,2024,USD,11337000000.0,2292000000.0,,,2858000000.0
+CINF,Cincinnati Financial Corporation,United States,Insurance - Property & Casualty,2023,USD,10013000000.0,1843000000.0,,,2276000000.0
+CINF,Cincinnati Financial Corporation,United States,Insurance - Property & Casualty,2022,USD,6563000000.0,-487000000.0,,,-694000000.0
+CTAS,Cintas Corporation,United States,Specialty Business Services,2025,USD,10340181000.0,1812281000.0,5174164000.0,2359726000.0,2264202000.0
+CTAS,Cintas Corporation,United States,Specialty Business Services,2024,USD,9596615000.0,1571592000.0,4686416000.0,2068633000.0,1973635000.0
+CTAS,Cintas Corporation,United States,Specialty Business Services,2023,USD,8815769000.0,1348010000.0,4173368000.0,1802664000.0,1693148000.0
+CSCO,"Cisco Systems, Inc.",United States,Communication Equipment,2025,USD,56654000000.0,10180000000.0,36790000000.0,12504000000.0,11100000000.0
+CSCO,"Cisco Systems, Inc.",United States,Communication Equipment,2024,USD,53803000000.0,10320000000.0,34828000000.0,12970000000.0,12234000000.0
+CSCO,"Cisco Systems, Inc.",United States,Communication Equipment,2023,USD,56998000000.0,12613000000.0,35753000000.0,15562000000.0,15318000000.0
+C,Citigroup Inc.,United States,Banks - Diversified,2024,USD,81089000000.0,12682000000.0,,,17046000000.0
+C,Citigroup Inc.,United States,Banks - Diversified,2023,USD,77024000000.0,9228000000.0,,,12910000000.0
+C,Citigroup Inc.,United States,Banks - Diversified,2022,USD,74480000000.0,14845000000.0,,,18807000000.0
+CFG,"Citizens Financial Group, Inc.",United States,Banks - Regional,2024,USD,7794000000.0,1509000000.0,,,1888000000.0
+CFG,"Citizens Financial Group, Inc.",United States,Banks - Regional,2023,USD,8224000000.0,1608000000.0,,,2030000000.0
+CFG,"Citizens Financial Group, Inc.",United States,Banks - Regional,2022,USD,8021000000.0,2073000000.0,,,2655000000.0
+CLX,The Clorox Company,United States,Household & Personal Products,2025,USD,7104000000.0,810000000.0,3213000000.0,1177000000.0,1078000000.0
+CLX,The Clorox Company,United States,Household & Personal Products,2024,USD,7093000000.0,280000000.0,3048000000.0,723000000.0,398000000.0
+CLX,The Clorox Company,United States,Household & Personal Products,2023,USD,7389000000.0,149000000.0,2908000000.0,823000000.0,238000000.0
+CME,CME Group Inc.,United States,Financial Data & Stock Exchanges,2024,USD,6130100000.0,3525800000.0,5279800000.0,3931500000.0,4541400000.0
+CME,CME Group Inc.,United States,Financial Data & Stock Exchanges,2023,USD,5578900000.0,3226200000.0,4750300000.0,3435700000.0,4153600000.0
+CME,CME Group Inc.,United States,Financial Data & Stock Exchanges,2022,USD,5019400000.0,2691000000.0,4266300000.0,3015900000.0,3490300000.0
+CMS,CMS Energy Corporation,United States,Utilities - Regulated Electric,2024,USD,7515000000.0,1003000000.0,3209000000.0,1487000000.0,1123000000.0
+CMS,CMS Energy Corporation,United States,Utilities - Regulated Electric,2023,USD,7462000000.0,887000000.0,2862000000.0,1235000000.0,954000000.0
+CMS,CMS Energy Corporation,United States,Utilities - Regulated Electric,2022,USD,8596000000.0,837000000.0,2762000000.0,1224000000.0,902000000.0
+KO,The Coca-Cola Company,United States,Beverages - Non-Alcoholic,2024,USD,47061000000.0,10631000000.0,28737000000.0,14022000000.0,13086000000.0
+KO,The Coca-Cola Company,United States,Beverages - Non-Alcoholic,2023,USD,45754000000.0,10714000000.0,27234000000.0,13098000000.0,12952000000.0
+KO,The Coca-Cola Company,United States,Beverages - Non-Alcoholic,2022,USD,43004000000.0,9542000000.0,25004000000.0,12042000000.0,11686000000.0
+CTSH,Cognizant Technology Solutions Corporation,United States,Information Technology Services,2024,USD,19736000000.0,2240000000.0,6778000000.0,3026000000.0,2938000000.0
+CTSH,Cognizant Technology Solutions Corporation,United States,Information Technology Services,2023,USD,19353000000.0,2126000000.0,6689000000.0,2918000000.0,2787000000.0
+CTSH,Cognizant Technology Solutions Corporation,United States,Information Technology Services,2022,USD,19428000000.0,2290000000.0,6980000000.0,2968000000.0,3016000000.0
+COIN,"Coinbase Global, Inc.",United States,Financial Data & Stock Exchanges,2024,USD,6564028000.0,2579066000.0,4906481000.0,2235435000.0,2942644000.0
+COIN,"Coinbase Global, Inc.",United States,Financial Data & Stock Exchanges,2023,USD,3108383000.0,94871000.0,1972833000.0,-53743000.0,-76845000.0
+COIN,"Coinbase Global, Inc.",United States,Financial Data & Stock Exchanges,2022,USD,3194208000.0,-2624949000.0,2564328000.0,-1947294000.0,-3064582000.0
+CL,Colgate-Palmolive Company,United States,Household & Personal Products,2024,USD,20101000000.0,2889000000.0,12161000000.0,4330000000.0,3956000000.0
+CL,Colgate-Palmolive Company,United States,Household & Personal Products,2023,USD,19457000000.0,2300000000.0,11326000000.0,4085000000.0,3392000000.0
+CL,Colgate-Palmolive Company,United States,Household & Personal Products,2022,USD,17967000000.0,1785000000.0,10248000000.0,3617000000.0,2660000000.0
+CMCSA,Comcast Corporation,United States,Telecom Services,2024,USD,123731000000.0,16192000000.0,86705000000.0,23298000000.0,18673000000.0
+CMCSA,Comcast Corporation,United States,Telecom Services,2023,USD,121572000000.0,15388000000.0,84810000000.0,23313000000.0,20478000000.0
+CMCSA,Comcast Corporation,United States,Telecom Services,2022,USD,121427000000.0,5370000000.0,83214000000.0,22624000000.0,9284000000.0
+CAG,"Conagra Brands, Inc.",United States,Packaged Foods,2025,USD,11612800000.0,1152400000.0,3003500000.0,1466200000.0,1156200000.0
+CAG,"Conagra Brands, Inc.",United States,Packaged Foods,2024,USD,12050900000.0,347200000.0,3333400000.0,1845900000.0,610200000.0
+CAG,"Conagra Brands, Inc.",United States,Packaged Foods,2023,USD,12277000000.0,683600000.0,3264800000.0,1832900000.0,901900000.0
+COP,ConocoPhillips,United States,Oil & Gas E&P,2024,USD,54745000000.0,9245000000.0,16383000000.0,12783000000.0,13672000000.0
+COP,ConocoPhillips,United States,Oil & Gas E&P,2023,USD,56141000000.0,10957000000.0,18203000000.0,15026000000.0,16288000000.0
+COP,ConocoPhillips,United States,Oil & Gas E&P,2022,USD,78494000000.0,18680000000.0,30013000000.0,25462000000.0,28228000000.0
+ED,"Consolidated Edison, Inc.",United States,Utilities - Regulated Electric,2024,USD,15256000000.0,1820000000.0,8167000000.0,2732000000.0,2138000000.0
+ED,"Consolidated Edison, Inc.",United States,Utilities - Regulated Electric,2023,USD,14663000000.0,2519000000.0,7405000000.0,2331000000.0,3003000000.0
+ED,"Consolidated Edison, Inc.",United States,Utilities - Regulated Electric,2022,USD,15670000000.0,1660000000.0,7685000000.0,2624000000.0,2098000000.0
+STZ,"Constellation Brands, Inc.",United States,Beverages - Brewers,2025,USD,10208700000.0,-81400000.0,5314600000.0,3364600000.0,-82800000.0
+STZ,"Constellation Brands, Inc.",United States,Beverages - Brewers,2024,USD,9961800000.0,1727400000.0,5017500000.0,3184800000.0,2221800000.0
+STZ,"Constellation Brands, Inc.",United States,Beverages - Brewers,2023,USD,9452600000.0,-71000000.0,4769000000.0,2840900000.0,383600000.0
+CEG,Constellation Energy Corporation,United States,Utilities - Independent Power Producers,2024,USD,23568000000.0,3749000000.0,5990000000.0,4848000000.0,4516000000.0
+CEG,Constellation Energy Corporation,United States,Utilities - Independent Power Producers,2023,USD,24918000000.0,1623000000.0,3232000000.0,2386000000.0,2447000000.0
+CEG,Constellation Energy Corporation,United States,Utilities - Independent Power Producers,2022,USD,24440000000.0,-160000000.0,2137000000.0,-408000000.0,-542000000.0
+COO,"The Cooper Companies, Inc.",United States,Medical Instruments & Supplies,2024,USD,3895400000.0,392300000.0,2595700000.0,705700000.0,582300000.0
+COO,"The Cooper Companies, Inc.",United States,Medical Instruments & Supplies,2023,USD,3593200000.0,294200000.0,2357900000.0,533100000.0,412900000.0
+COO,"The Cooper Companies, Inc.",United States,Medical Instruments & Supplies,2022,USD,3308400000.0,385800000.0,2139600000.0,507600000.0,475300000.0
+CPRT,"Copart, Inc.",United States,Specialty Business Services,2025,USD,4646958000.0,1552449000.0,2099643000.0,1696714000.0,1895581000.0
+CPRT,"Copart, Inc.",United States,Specialty Business Services,2024,USD,4236823000.0,1363020000.0,1907252000.0,1572023000.0,1714601000.0
+CPRT,"Copart, Inc.",United States,Specialty Business Services,2023,USD,3869518000.0,1237741000.0,1736991000.0,1486569000.0,1554328000.0
+GLW,Corning Incorporated,United States,Electronic Components,2024,USD,13118000000.0,506000000.0,4276000000.0,1135000000.0,813000000.0
+GLW,Corning Incorporated,United States,Electronic Components,2023,USD,12588000000.0,581000000.0,3931000000.0,890000000.0,816000000.0
+GLW,Corning Incorporated,United States,Electronic Components,2022,USD,14189000000.0,1316000000.0,4506000000.0,1438000000.0,1797000000.0
+CPAY,"Corpay, Inc.",United States,Software - Infrastructure,2024,USD,3974589000.0,1003746000.0,3105504000.0,1755847000.0,1385113000.0
+CPAY,"Corpay, Inc.",United States,Software - Infrastructure,2023,USD,3757719000.0,981890000.0,2937811000.0,1656873000.0,1325005000.0
+CPAY,"Corpay, Inc.",United States,Software - Infrastructure,2022,USD,3427129000.0,954327000.0,2662422000.0,1446641000.0,1275660000.0
+CTVA,"Corteva, Inc.",United States,Agricultural Inputs,2024,USD,16908000000.0,907000000.0,7379000000.0,2096000000.0,1275000000.0
+CTVA,"Corteva, Inc.",United States,Agricultural Inputs,2023,USD,17226000000.0,735000000.0,7306000000.0,2110000000.0,1093000000.0
+CTVA,"Corteva, Inc.",United States,Agricultural Inputs,2022,USD,17455000000.0,1147000000.0,7019000000.0,1928000000.0,1426000000.0
+CSGP,"CoStar Group, Inc.",United States,Real Estate Services,2024,USD,2736200000.0,138700000.0,2177700000.0,4700000.0,210100000.0
+CSGP,"CoStar Group, Inc.",United States,Real Estate Services,2023,USD,2455000000.0,374700000.0,1963500000.0,282300000.0,501300000.0
+CSGP,"CoStar Group, Inc.",United States,Real Estate Services,2022,USD,2182400000.0,369500000.0,1768400000.0,451000000.0,486500000.0
+COST,Costco Wholesale Corporation,United States,Discount Stores,2025,USD,275235000000.0,8099000000.0,35349000000.0,10383000000.0,10818000000.0
+COST,Costco Wholesale Corporation,United States,Discount Stores,2024,USD,254453000000.0,7367000000.0,32095000000.0,9285000000.0,9740000000.0
+COST,Costco Wholesale Corporation,United States,Discount Stores,2023,USD,242290000000.0,6292000000.0,29704000000.0,8114000000.0,8487000000.0
+CTRA,Coterra Energy Inc.,United States,Oil & Gas E&P,2024,USD,5458000000.0,1121000000.0,1995000000.0,1386000000.0,1345000000.0
+CTRA,Coterra Energy Inc.,United States,Oil & Gas E&P,2023,USD,5914000000.0,1625000000.0,2746000000.0,2154000000.0,2128000000.0
+CTRA,Coterra Energy Inc.,United States,Oil & Gas E&P,2022,USD,9051000000.0,4065000000.0,6001000000.0,5210000000.0,5169000000.0
+CRWD,"CrowdStrike Holdings, Inc.",United States,Software - Infrastructure,2025,USD,3953624000.0,-19271000.0,2962143000.0,-120430000.0,54534000.0
+CRWD,"CrowdStrike Holdings, Inc.",United States,Software - Infrastructure,2024,USD,3055555000.0,89327000.0,2299832000.0,-1995000.0,122817000.0
+CRWD,"CrowdStrike Holdings, Inc.",United States,Software - Infrastructure,2023,USD,2241236000.0,-183245000.0,1640005000.0,-190112000.0,-159883000.0
+CCI,Crown Castle Inc.,United States,REIT - Specialty,2024,USD,6568000000.0,-3903000000.0,4721000000.0,2277000000.0,-3879000000.0
+CCI,Crown Castle Inc.,United States,REIT - Specialty,2023,USD,6981000000.0,1502000000.0,5001000000.0,2488000000.0,1528000000.0
+CCI,Crown Castle Inc.,United States,REIT - Specialty,2022,USD,6986000000.0,1675000000.0,4918000000.0,2433000000.0,1691000000.0
+CSX,CSX Corporation,United States,Railroads,2024,USD,14540000000.0,3470000000.0,5342000000.0,5392000000.0,4555000000.0
+CSX,CSX Corporation,United States,Railroads,2023,USD,14657000000.0,3668000000.0,5465000000.0,5494000000.0,4829000000.0
+CSX,CSX Corporation,United States,Railroads,2022,USD,14853000000.0,4114000000.0,5716000000.0,5795000000.0,5345000000.0
+CMI,Cummins Inc.,United States,Specialty Industrial Machinery,2024,USD,34102000000.0,3946000000.0,8439000000.0,3382000000.0,4903000000.0
+CMI,Cummins Inc.,United States,Specialty Industrial Machinery,2023,USD,34065000000.0,735000000.0,8249000000.0,3323000000.0,1626000000.0
+CMI,Cummins Inc.,United States,Specialty Industrial Machinery,2022,USD,28074000000.0,2151000000.0,6719000000.0,2580000000.0,2819000000.0
+CVS,CVS Health Corporation,United States,Healthcare Plans,2024,USD,372809000000.0,4614000000.0,51401000000.0,9795000000.0,6148000000.0
+CVS,CVS Health Corporation,United States,Healthcare Plans,2023,USD,357776000000.0,8344000000.0,54431000000.0,14599000000.0,11173000000.0
+CVS,CVS Health Corporation,United States,Healthcare Plans,2022,USD,322467000000.0,4311000000.0,54502000000.0,16290000000.0,5836000000.0
+DHR,Danaher Corporation,United States,Diagnostics & Research,2024,USD,23875000000.0,3899000000.0,14206000000.0,4863000000.0,4646000000.0
+DHR,Danaher Corporation,United States,Diagnostics & Research,2023,USD,23890000000.0,4764000000.0,14034000000.0,5202000000.0,5044000000.0
+DHR,Danaher Corporation,United States,Diagnostics & Research,2022,USD,26643000000.0,7209000000.0,16188000000.0,7536000000.0,7146000000.0
+DRI,"Darden Restaurants, Inc.",United States,Restaurants,2025,USD,12076700000.0,1049600000.0,2642600000.0,1436300000.0,1187200000.0
+DRI,"Darden Restaurants, Inc.",United States,Restaurants,2024,USD,11390000000.0,1027600000.0,2434500000.0,1350900000.0,1175500000.0
+DRI,"Darden Restaurants, Inc.",United States,Restaurants,2023,USD,10487800000.0,981900000.0,2109300000.0,1217100000.0,1120500000.0
+DDOG,"Datadog, Inc.",United States,Software - Application,2024,USD,2684275000.0,183746000.0,2168744000.0,54284000.0,203940000.0
+DDOG,"Datadog, Inc.",United States,Software - Application,2023,USD,2128359000.0,48568000.0,1718451000.0,-33464000.0,60235000.0
+DDOG,"Datadog, Inc.",United States,Software - Application,2022,USD,1675100000.0,-50160000.0,1328357000.0,-58695000.0,-38070000.0
+DVA,DaVita Inc.,United States,Medical Care Facilities,2024,USD,12815550000.0,936342000.0,4217029000.0,1954828000.0,1530393000.0
+DVA,DaVita Inc.,United States,Medical Care Facilities,2023,USD,12140147000.0,691535000.0,3820430000.0,1601003000.0,1177094000.0
+DVA,DaVita Inc.,United States,Medical Care Facilities,2022,USD,11609894000.0,560400000.0,3400341000.0,1312542000.0,966278000.0
+DAY,Dayforce Inc,United States,Software - Application,2024,USD,1760000000.0,18100000.0,812100000.0,104100000.0,37600000.0
+DAY,Dayforce Inc,United States,Software - Application,2023,USD,1513700000.0,54800000.0,646500000.0,133100000.0,96000000.0
+DAY,Dayforce Inc,United States,Software - Application,2022,USD,1246200000.0,-73400000.0,473200000.0,-25800000.0,-62900000.0
+DECK,Deckers Outdoor Corporation,United States,Footwear & Accessories,2025,USD,4985612000.0,966091000.0,2885663000.0,1179092000.0,1243299000.0
+DECK,Deckers Outdoor Corporation,United States,Footwear & Accessories,2024,USD,4287763000.0,759563000.0,2385488000.0,927514000.0,978941000.0
+DECK,Deckers Outdoor Corporation,United States,Footwear & Accessories,2023,USD,3627286000.0,516822000.0,1825370000.0,652751000.0,666082000.0
+DE,Deere & Company,United States,Farm & Heavy Construction Machinery,2025,USD,,,,,
+DE,Deere & Company,United States,Farm & Heavy Construction Machinery,2024,USD,50518000000.0,7100000000.0,19495000000.0,11427000000.0,9206000000.0
+DE,Deere & Company,United States,Farm & Heavy Construction Machinery,2023,USD,60248000000.0,10166000000.0,22306000000.0,14591000000.0,13019000000.0
+DELL,Dell Technologies Inc.,United States,Computer Hardware,2025,USD,95567000000.0,4592000000.0,21250000000.0,6237000000.0,5048000000.0
+DELL,Dell Technologies Inc.,United States,Computer Hardware,2024,USD,88425000000.0,3388000000.0,21069000000.0,5411000000.0,4087000000.0
+DELL,Dell Technologies Inc.,United States,Computer Hardware,2023,USD,102301000000.0,2442000000.0,22686000000.0,5771000000.0,3225000000.0
+DAL,"Delta Air Lines, Inc.",United States,Airlines,2024,USD,61643000000.0,3457000000.0,16557000000.0,5995000000.0,4658000000.0
+DAL,"Delta Air Lines, Inc.",United States,Airlines,2023,USD,58048000000.0,4609000000.0,15518000000.0,5521000000.0,5608000000.0
+DAL,"Delta Air Lines, Inc.",United States,Airlines,2022,USD,50582000000.0,1318000000.0,11160000000.0,3661000000.0,1914000000.0
+DVN,Devon Energy Corporation,United States,Oil & Gas E&P,2024,USD,15940000000.0,2891000000.0,4710000000.0,4143000000.0,3712000000.0
+DVN,Devon Energy Corporation,United States,Oil & Gas E&P,2023,USD,15258000000.0,3747000000.0,5367000000.0,4910000000.0,4623000000.0
+DVN,Devon Energy Corporation,United States,Oil & Gas E&P,2022,USD,19169000000.0,6015000000.0,8369000000.0,7920000000.0,7775000000.0
+DXCM,"DexCom, Inc.",United States,Medical Devices,2024,USD,4033000000.0,576200000.0,2438200000.0,600000000.0,709000000.0
+DXCM,"DexCom, Inc.",United States,Medical Devices,2023,USD,3622300000.0,541500000.0,2288900000.0,597700000.0,710400000.0
+DXCM,"DexCom, Inc.",United States,Medical Devices,2022,USD,2909800000.0,341200000.0,1883100000.0,391200000.0,390800000.0
+FANG,"Diamondback Energy, Inc.",United States,Oil & Gas E&P,2024,USD,11023000000.0,3338000000.0,4972000000.0,4699000000.0,4501000000.0
+FANG,"Diamondback Energy, Inc.",United States,Oil & Gas E&P,2023,USD,8339000000.0,3143000000.0,4798000000.0,4581000000.0,4248000000.0
+FANG,"Diamondback Energy, Inc.",United States,Oil & Gas E&P,2022,USD,9566000000.0,4386000000.0,6701000000.0,6522000000.0,5736000000.0
+DLR,"Digital Realty Trust, Inc.",United States,REIT - Specialty,2024,USD,5554968000.0,602490000.0,3035853000.0,756950000.0,643087000.0
+DLR,"Digital Realty Trust, Inc.",United States,REIT - Specialty,2023,USD,5477061000.0,948838000.0,2878990000.0,727546000.0,1025891000.0
+DLR,"Digital Realty Trust, Inc.",United States,REIT - Specialty,2022,USD,4691834000.0,377684000.0,2674272000.0,661734000.0,411875000.0
+DG,Dollar General Corporation,United States,Discount Stores,2025,USD,40612308000.0,1125253000.0,12017497000.0,1714074000.0,1439754000.0
+DG,Dollar General Corporation,United States,Discount Stores,2024,USD,38691609000.0,1661274000.0,11719024000.0,2446300000.0,2119519000.0
+DG,Dollar General Corporation,United States,Discount Stores,2023,USD,37844863000.0,2415989000.0,11820098000.0,3328302000.0,3116614000.0
+DLTR,"Dollar Tree, Inc.",United States,Discount Stores,2025,USD,17578500000.0,-3030100000.0,6294400000.0,1462000000.0,1383600000.0
+DLTR,"Dollar Tree, Inc.",United States,Discount Stores,2024,USD,16781100000.0,-998400000.0,6019700000.0,1774500000.0,1661900000.0
+DLTR,"Dollar Tree, Inc.",United States,Discount Stores,2023,USD,15411500000.0,1615400000.0,5781300000.0,2099300000.0,1971700000.0
+D,"Dominion Energy, Inc.",United States,Utilities - Regulated Electric,2024,USD,14459000000.0,2124000000.0,6922000000.0,3846000000.0,2182000000.0
+D,"Dominion Energy, Inc.",United States,Utilities - Regulated Electric,2023,USD,14393000000.0,2031000000.0,6958000000.0,3694000000.0,2724000000.0
+D,"Dominion Energy, Inc.",United States,Utilities - Regulated Electric,2022,USD,13938000000.0,1191000000.0,6377000000.0,3260000000.0,328000000.0
+DPZ,"Domino's Pizza, Inc.",United States,Restaurants,2024,USD,4706416000.0,584170000.0,1848502000.0,879157000.0,722215000.0
+DPZ,"Domino's Pizza, Inc.",United States,Restaurants,2023,USD,4479358000.0,519118000.0,1727417000.0,819668000.0,652440000.0
+DPZ,"Domino's Pizza, Inc.",United States,Restaurants,2022,USD,4537158000.0,452263000.0,1648606000.0,746752000.0,572833000.0
+DASH,"DoorDash, Inc.",United States,Internet Retail,2024,USD,10722000000.0,123000000.0,5180000000.0,-38000000.0,156000000.0
+DASH,"DoorDash, Inc.",United States,Internet Retail,2023,USD,8635000000.0,-558000000.0,4046000000.0,-577000000.0,-534000000.0
+DASH,"DoorDash, Inc.",United States,Internet Retail,2022,USD,6583000000.0,-1365000000.0,2995000000.0,-1032000000.0,-1399000000.0
+DOV,Dover Corporation,United States,Specialty Industrial Machinery,2024,USD,7745909000.0,2697126000.0,2958621000.0,1206355000.0,1757016000.0
+DOV,Dover Corporation,United States,Specialty Industrial Machinery,2023,USD,7684476000.0,1056828000.0,2867544000.0,1219340000.0,1123000000.0
+DOV,Dover Corporation,United States,Specialty Industrial Machinery,2022,USD,7844174000.0,1065376000.0,2904953000.0,1279641000.0,1190203000.0
+DOW,Dow Inc.,United States,Chemicals,2024,USD,42964000000.0,1116000000.0,4606000000.0,1905000000.0,1600000000.0
+DOW,Dow Inc.,United States,Chemicals,2023,USD,44622000000.0,589000000.0,4880000000.0,2100000000.0,656000000.0
+DOW,Dow Inc.,United States,Chemicals,2022,USD,56902000000.0,4582000000.0,8564000000.0,5702000000.0,6090000000.0
+DHI,"D.R. Horton, Inc.",United States,Residential Construction,2025,USD,34250400000.0,3585200000.0,8116200000.0,4424200000.0,4739900000.0
+DHI,"D.R. Horton, Inc.",United States,Residential Construction,2024,USD,36801400000.0,4756400000.0,9535400000.0,5935900000.0,6284700000.0
+DHI,"D.R. Horton, Inc.",United States,Residential Construction,2023,USD,35460400000.0,4745700000.0,9350400000.0,6101600000.0,6314700000.0
+DTE,DTE Energy Company,United States,Utilities - Regulated Electric,2024,USD,12457000000.0,1404000000.0,4338000000.0,2205000000.0,1370000000.0
+DTE,DTE Energy Company,United States,Utilities - Regulated Electric,2023,USD,12745000000.0,1397000000.0,4327000000.0,2301000000.0,1566000000.0
+DTE,DTE Energy Company,United States,Utilities - Regulated Electric,2022,USD,19228000000.0,1083000000.0,3668000000.0,1772000000.0,1112000000.0
+DUK,Duke Energy Corporation,United States,Utilities - Regulated Electric,2024,USD,30357000000.0,4524000000.0,15197000000.0,7938000000.0,5194000000.0
+DUK,Duke Energy Corporation,United States,Utilities - Regulated Electric,2023,USD,29060000000.0,2841000000.0,13756000000.0,7103000000.0,4767000000.0
+DUK,Duke Energy Corporation,United States,Utilities - Regulated Electric,2022,USD,28768000000.0,2550000000.0,12976000000.0,6424000000.0,4078000000.0
+DD,"DuPont de Nemours, Inc.",United States,Specialty Chemicals,2024,USD,12386000000.0,703000000.0,4507000000.0,1829000000.0,1192000000.0
+DD,"DuPont de Nemours, Inc.",United States,Specialty Chemicals,2023,USD,12068000000.0,423000000.0,4233000000.0,1717000000.0,504000000.0
+DD,"DuPont de Nemours, Inc.",United States,Specialty Chemicals,2022,USD,13017000000.0,5868000000.0,4615000000.0,2022000000.0,1448000000.0
+ETN,Eaton Corporation plc,Ireland,Specialty Industrial Machinery,2024,USD,24878000000.0,3794000000.0,9503000000.0,4632000000.0,4566000000.0
+ETN,Eaton Corporation plc,Ireland,Specialty Industrial Machinery,2023,USD,23196000000.0,3218000000.0,8434000000.0,3885000000.0,3827000000.0
+ETN,Eaton Corporation plc,Ireland,Specialty Industrial Machinery,2022,USD,20752000000.0,2462000000.0,6887000000.0,2995000000.0,2911000000.0
+EBAY,eBay Inc.,United States,Internet Retail,2024,USD,10283000000.0,1975000000.0,7403000000.0,2318000000.0,2278000000.0
+EBAY,eBay Inc.,United States,Internet Retail,2023,USD,10112000000.0,2767000000.0,7279000000.0,1941000000.0,3707000000.0
+EBAY,eBay Inc.,United States,Internet Retail,2022,USD,9795000000.0,-1269000000.0,7115000000.0,2350000000.0,-1601000000.0
+ECL,Ecolab Inc.,United States,Specialty Chemicals,2024,USD,15741400000.0,2112400000.0,6841700000.0,2613500000.0,2571200000.0
+ECL,Ecolab Inc.,United States,Specialty Chemicals,2023,USD,15320200000.0,1372300000.0,6165300000.0,2103700000.0,1755500000.0
+ECL,Ecolab Inc.,United States,Specialty Chemicals,2022,USD,14187800000.0,1091700000.0,5356800000.0,1703000000.0,1343400000.0
+EIX,Edison International,United States,Utilities - Regulated Electric,2024,USD,17599000000.0,1546000000.0,7218000000.0,2930000000.0,1563000000.0
+EIX,Edison International,United States,Utilities - Regulated Electric,2023,USD,16338000000.0,1407000000.0,6714000000.0,2628000000.0,1515000000.0
+EIX,Edison International,United States,Utilities - Regulated Electric,2022,USD,17220000000.0,824000000.0,6121000000.0,1532000000.0,662000000.0
+EW,Edwards Lifesciences Corporation,United States,Medical Devices,2024,USD,5439500000.0,4174600000.0,4322000000.0,1480100000.0,1548100000.0
+EW,Edwards Lifesciences Corporation,United States,Medical Devices,2023,USD,5010000000.0,1402400000.0,4031600000.0,1486200000.0,1372400000.0
+EW,Edwards Lifesciences Corporation,United States,Medical Devices,2022,USD,4464000000.0,1521900000.0,3740300000.0,1539100000.0,1519500000.0
+EA,Electronic Arts Inc.,United States,Electronic Gaming & Multimedia,2025,USD,7463000000.0,1121000000.0,5920000000.0,1577000000.0,1605000000.0
+EA,Electronic Arts Inc.,United States,Electronic Gaming & Multimedia,2024,USD,7562000000.0,1273000000.0,5852000000.0,1580000000.0,1589000000.0
+EA,Electronic Arts Inc.,United States,Electronic Gaming & Multimedia,2023,USD,7426000000.0,802000000.0,5634000000.0,1443000000.0,1326000000.0
+ELV,"Elevance Health, Inc.",United States,Healthcare Plans,2024,USD,176810000000.0,5980000000.0,,,7904000000.0
+ELV,"Elevance Health, Inc.",United States,Healthcare Plans,2023,USD,171340000000.0,5987000000.0,,,7715000000.0
+ELV,"Elevance Health, Inc.",United States,Healthcare Plans,2022,USD,156595000000.0,5894000000.0,,,7600000000.0
+EME,"EMCOR Group, Inc.",United States,Engineering & Construction,2024,USD,14566116000.0,1007145000.0,2765051000.0,1344863000.0,1377382000.0
+EME,"EMCOR Group, Inc.",United States,Engineering & Construction,2023,USD,12582873000.0,632994000.0,2089339000.0,878106000.0,872853000.0
+EME,"EMCOR Group, Inc.",United States,Engineering & Construction,2022,USD,11076120000.0,406122000.0,1603594000.0,564877000.0,558750000.0
+EMR,Emerson Electric Co.,United States,Specialty Industrial Machinery,2025,USD,18016000000.0,2293000000.0,9519000000.0,3532000000.0,2934000000.0
+EMR,Emerson Electric Co.,United States,Specialty Industrial Machinery,2024,USD,17492000000.0,1968000000.0,8885000000.0,2666000000.0,2020000000.0
+EMR,Emerson Electric Co.,United States,Specialty Industrial Machinery,2023,USD,15165000000.0,13219000000.0,7427000000.0,2759000000.0,2903000000.0
+ETR,Entergy Corporation,United States,Utilities - Regulated Electric,2024,USD,11879653000.0,1061184000.0,5738287000.0,2758224000.0,1442211000.0
+ETR,Entergy Corporation,United States,Utilities - Regulated Electric,2023,USD,12147412000.0,2362310000.0,5329436000.0,2660654000.0,1671775000.0
+ETR,Entergy Corporation,United States,Utilities - Regulated Electric,2022,USD,13764237000.0,1097138000.0,5275351000.0,1887311000.0,1058160000.0
+EOG,"EOG Resources, Inc.",United States,Oil & Gas E&P,2024,USD,23378000000.0,6403000000.0,15976000000.0,8253000000.0,8218000000.0
+EOG,"EOG Resources, Inc.",United States,Oil & Gas E&P,2023,USD,23182000000.0,7594000000.0,16616000000.0,8892000000.0,9689000000.0
+EOG,"EOG Resources, Inc.",United States,Oil & Gas E&P,2022,USD,29492000000.0,7759000000.0,23032000000.0,14256000000.0,9901000000.0
+EPAM,"EPAM Systems, Inc.",United States,Information Technology Services,2024,USD,4727940000.0,454533000.0,1450443000.0,544584000.0,584412000.0
+EPAM,"EPAM Systems, Inc.",United States,Information Technology Services,2023,USD,4690540000.0,417083000.0,1434026000.0,527161000.0,536585000.0
+EPAM,"EPAM Systems, Inc.",United States,Information Technology Services,2022,USD,4824698000.0,419416000.0,1538015000.0,572966000.0,507258000.0
+EQT,EQT Corporation,United States,Oil & Gas E&P,2024,USD,5222192000.0,230577000.0,767219000.0,276922000.0,264194000.0
+EQT,EQT Corporation,United States,Oil & Gas E&P,2023,USD,5069982000.0,1735232000.0,941579000.0,658599000.0,2103498000.0
+EQT,EQT Corporation,United States,Oil & Gas E&P,2022,USD,12140621000.0,1770965000.0,8059295000.0,7757469000.0,2334662000.0
+EFX,Equifax Inc.,United States,Consulting Services,2024,USD,5681100000.0,604100000.0,3162400000.0,1042100000.0,810500000.0
+EFX,Equifax Inc.,United States,Consulting Services,2023,USD,5265200000.0,545300000.0,2930100000.0,933600000.0,717900000.0
+EFX,Equifax Inc.,United States,Consulting Services,2022,USD,5122200000.0,696200000.0,2945000000.0,1056000000.0,929700000.0
+EQIX,"Equinix, Inc.",United States,REIT - Specialty,2024,USD,8748000000.0,815000000.0,4281000000.0,1624000000.0,975000000.0
+EQIX,"Equinix, Inc.",United States,REIT - Specialty,2023,USD,8188000000.0,969000000.0,3960000000.0,1451000000.0,1124000000.0
+EQIX,"Equinix, Inc.",United States,REIT - Specialty,2022,USD,7263000000.0,705000000.0,3512000000.0,1226000000.0,829000000.0
+EQR,Equity Residential,United States,REIT - Residential,2024,USD,2980108000.0,1035831000.0,1885543000.0,871699000.0,1081205000.0
+EQR,Equity Residential,United States,REIT - Residential,2023,USD,2873964000.0,835438000.0,1827471000.0,878046000.0,875014000.0
+EQR,Equity Residential,United States,REIT - Residential,2022,USD,2735180000.0,776911000.0,1752599000.0,811721000.0,812926000.0
+ERIE,Erie Indemnity Company,United States,Insurance Brokers,2024,USD,3862404000.0,600314000.0,,,757279000.0
+ERIE,Erie Indemnity Company,United States,Insurance Brokers,2023,USD,3309216000.0,446061000.0,,,561936000.0
+ERIE,Erie Indemnity Company,United States,Insurance Brokers,2022,USD,2851202000.0,298569000.0,,,376452000.0
+ESS,"Essex Property Trust, Inc.",United States,REIT - Residential,2024,USD,1774450000.0,741522000.0,1207635000.0,528513000.0,811306000.0
+ESS,"Essex Property Trust, Inc.",United States,REIT - Residential,2023,USD,1669395000.0,405825000.0,1137347000.0,525435000.0,430708000.0
+ESS,"Essex Property Trust, Inc.",United States,REIT - Residential,2022,USD,1606814000.0,408315000.0,1109077000.0,513181000.0,432985000.0
+EL,The Estée Lauder Companies Inc.,United States,Household & Personal Products,2025,USD,14326000000.0,-1133000000.0,10597000000.0,1141000000.0,-1040000000.0
+EL,The Estée Lauder Companies Inc.,United States,Household & Personal Products,2024,USD,15608000000.0,390000000.0,11184000000.0,1563000000.0,772000000.0
+EL,The Estée Lauder Companies Inc.,United States,Household & Personal Products,2023,USD,15910000000.0,1006000000.0,11346000000.0,1771000000.0,1397000000.0
+EG,"Everest Group, Ltd.",Bermuda,Insurance - Reinsurance,2024,USD,17076000000.0,1373000000.0,,,1493000000.0
+EG,"Everest Group, Ltd.",Bermuda,Insurance - Reinsurance,2023,USD,14464000000.0,2517000000.0,,,2154000000.0
+EG,"Everest Group, Ltd.",Bermuda,Insurance - Reinsurance,2022,USD,11985000000.0,597000000.0,,,588000000.0
+EVRG,"Evergy, Inc.",United States,Utilities - Regulated Electric,2024,USD,5847300000.0,873500000.0,3034600000.0,1468000000.0,908000000.0
+EVRG,"Evergy, Inc.",United States,Utilities - Regulated Electric,2023,USD,5508200000.0,731300000.0,2765500000.0,1282400000.0,751800000.0
+EVRG,"Evergy, Inc.",United States,Utilities - Regulated Electric,2022,USD,5859100000.0,752700000.0,2629600000.0,1302100000.0,805200000.0
+ES,Eversource Energy,United States,Utilities - Regulated Electric,2024,USD,11900809000.0,811653000.0,6151805000.0,2705709000.0,1243836000.0
+ES,Eversource Energy,United States,Utilities - Regulated Electric,2023,USD,11910705000.0,-442240000.0,4846761000.0,2399335000.0,-275037000.0
+ES,Eversource Energy,United States,Utilities - Regulated Electric,2022,USD,12289336000.0,1404875000.0,5409934000.0,2198154000.0,1865968000.0
+EXC,Exelon Corporation,United States,Utilities - Regulated Electric,2024,USD,23028000000.0,2460000000.0,9405000000.0,4307000000.0,2667000000.0
+EXC,Exelon Corporation,United States,Utilities - Regulated Electric,2023,USD,21727000000.0,2328000000.0,8927000000.0,4013000000.0,2702000000.0
+EXC,Exelon Corporation,United States,Utilities - Regulated Electric,2022,USD,19078000000.0,2170000000.0,8032000000.0,3317000000.0,2403000000.0
+EXE,Expand Energy Corporation,United States,Oil & Gas E&P,2024,USD,4221000000.0,-714000000.0,1141000000.0,-697000000.0,-841000000.0
+EXE,Expand Energy Corporation,United States,Oil & Gas E&P,2023,USD,7775000000.0,2419000000.0,5039000000.0,2368000000.0,3117000000.0
+EXE,Expand Energy Corporation,United States,Oil & Gas E&P,2022,USD,11443000000.0,4936000000.0,8156000000.0,3727000000.0,3651000000.0
+EXPE,"Expedia Group, Inc.",United States,Travel Services,2024,USD,13691000000.0,1234000000.0,12248000000.0,1670000000.0,1542000000.0
+EXPE,"Expedia Group, Inc.",United States,Travel Services,2023,USD,12839000000.0,797000000.0,11266000000.0,1534000000.0,1018000000.0
+EXPE,"Expedia Group, Inc.",United States,Travel Services,2022,USD,11667000000.0,352000000.0,10010000000.0,1189000000.0,538000000.0
+EXPD,"Expeditors International of Washington, Inc.",United States,Integrated Freight & Logistics,2024,USD,10600515000.0,810073000.0,1349040000.0,1041323000.0,1094800000.0
+EXPD,"Expeditors International of Washington, Inc.",United States,Integrated Freight & Logistics,2023,USD,9300110000.0,752883000.0,1245476000.0,939933000.0,1015028000.0
+EXPD,"Expeditors International of Washington, Inc.",United States,Integrated Freight & Logistics,2022,USD,17071284000.0,1357399000.0,2171130000.0,1824371000.0,1835891000.0
+EXR,Extra Space Storage Inc.,United States,REIT - Industrial,2024,USD,3256902000.0,854681000.0,2351450000.0,1401029000.0,933710000.0
+EXR,Extra Space Storage Inc.,United States,REIT - Industrial,2023,USD,2560244000.0,803198000.0,1889334000.0,1236873000.0,872012000.0
+EXR,Extra Space Storage Inc.,United States,REIT - Industrial,2022,USD,1924170000.0,860688000.0,1455268000.0,1037701000.0,942081000.0
+XOM,Exxon Mobil Corporation,United States,Oil & Gas Integrated,2024,USD,339247000000.0,33680000000.0,76742000000.0,39652000000.0,48873000000.0
+XOM,Exxon Mobil Corporation,United States,Oil & Gas Integrated,2023,USD,334697000000.0,36010000000.0,84142000000.0,44461000000.0,52783000000.0
+XOM,Exxon Mobil Corporation,United States,Oil & Gas Integrated,2022,USD,398675000000.0,55740000000.0,103067000000.0,64028000000.0,77753000000.0
+FFIV,"F5, Inc.",United States,Software - Infrastructure,2025,USD,3088072000.0,692380000.0,2514094000.0,791433000.0,808336000.0
+FFIV,"F5, Inc.",United States,Software - Infrastructure,2024,USD,2816120000.0,566778000.0,2258473000.0,667246000.0,695465000.0
+FFIV,"F5, Inc.",United States,Software - Infrastructure,2023,USD,2813169000.0,394948000.0,2219861000.0,537956000.0,485988000.0
+FDS,FactSet Research Systems Inc.,United States,Financial Data & Stock Exchanges,2025,USD,2321748000.0,597040000.0,1223966000.0,748303000.0,720958000.0
+FDS,FactSet Research Systems Inc.,United States,Financial Data & Stock Exchanges,2024,USD,2203056000.0,537126000.0,1191111000.0,701299000.0,651503000.0
+FDS,FactSet Research Systems Inc.,United States,Financial Data & Stock Exchanges,2023,USD,2085508000.0,468173000.0,1112283000.0,629207000.0,583954000.0
+FICO,Fair Isaac Corporation,United States,Software - Application,2025,USD,1990869000.0,651946000.0,1637147000.0,935772000.0,802595000.0
+FICO,Fair Isaac Corporation,United States,Software - Application,2024,USD,1717526000.0,512811000.0,1369320000.0,733629000.0,642025000.0
+FICO,Fair Isaac Corporation,United States,Software - Application,2023,USD,1513557000.0,429375000.0,1202504000.0,640889000.0,553624000.0
+FAST,Fastenal Company,United States,Industrial Distribution,2024,USD,7546000000.0,1150600000.0,3401900000.0,1510000000.0,1508100000.0
+FAST,Fastenal Company,United States,Industrial Distribution,2023,USD,7346700000.0,1155000000.0,3354500000.0,1528700000.0,1522000000.0
+FAST,Fastenal Company,United States,Industrial Distribution,2022,USD,6980600000.0,1086900000.0,3215800000.0,1453600000.0,1440000000.0
+FRT,Federal Realty Investment Trust,United States,REIT - Retail,2024,USD,1202452000.0,295208000.0,810653000.0,418316000.0,304334000.0
+FRT,Federal Realty Investment Trust,United States,REIT - Retail,2023,USD,1132154000.0,236985000.0,769059000.0,396589000.0,247217000.0
+FRT,Federal Realty Investment Trust,United States,REIT - Retail,2022,USD,1074378000.0,385491000.0,717596000.0,362551000.0,395661000.0
+FDX,FedEx Corporation,United States,Integrated Freight & Logistics,2025,USD,87926000000.0,4092000000.0,18995000000.0,5994000000.0,5441000000.0
+FDX,FedEx Corporation,United States,Integrated Freight & Logistics,2024,USD,87693000000.0,4331000000.0,18952000000.0,6298000000.0,5836000000.0
+FDX,FedEx Corporation,United States,Integrated Freight & Logistics,2023,USD,90155000000.0,3972000000.0,19166000000.0,5338000000.0,5363000000.0
+FIS,"Fidelity National Information Services, Inc.",United States,Information Technology Services,2024,USD,10127000000.0,1450000000.0,3804000000.0,1761000000.0,1297000000.0
+FIS,"Fidelity National Information Services, Inc.",United States,Information Technology Services,2023,USD,9831000000.0,-6655000000.0,3656000000.0,1560000000.0,662000000.0
+FIS,"Fidelity National Information Services, Inc.",United States,Information Technology Services,2022,USD,9720000000.0,-16752000000.0,3461000000.0,1279000000.0,898000000.0
+FITB,Fifth Third Bancorp,United States,Banks - Regional,2024,USD,8253000000.0,2314000000.0,,,2916000000.0
+FITB,Fifth Third Bancorp,United States,Banks - Regional,2023,USD,8422000000.0,2349000000.0,,,2988000000.0
+FITB,Fifth Third Bancorp,United States,Banks - Regional,2022,USD,8102000000.0,2446000000.0,,,3093000000.0
+FSLR,"First Solar, Inc.",United States,Solar,2024,USD,4206289000.0,1292044000.0,1857864000.0,1393735000.0,1406338000.0
+FSLR,"First Solar, Inc.",United States,Solar,2023,USD,3318602000.0,830777000.0,1300679000.0,885973000.0,891290000.0
+FSLR,"First Solar, Inc.",United States,Solar,2022,USD,2619319000.0,-44166000.0,69858000.0,-280747000.0,8598000.0
+FE,FirstEnergy Corp.,United States,Utilities - Regulated Electric,2024,USD,13472000000.0,978000000.0,9096000000.0,2375000000.0,1504000000.0
+FE,FirstEnergy Corp.,United States,Utilities - Regulated Electric,2023,USD,12870000000.0,1102000000.0,8224000000.0,2266000000.0,1464000000.0
+FE,FirstEnergy Corp.,United States,Utilities - Regulated Electric,2022,USD,12459000000.0,406000000.0,7866000000.0,1910000000.0,1439000000.0
+FISV,"Fiserv, Inc.",Unknown,Unknown,2024,USD,20456000000.0,3131000000.0,12443000000.0,5879000000.0,4506000000.0
+FISV,"Fiserv, Inc.",Unknown,Unknown,2023,USD,19093000000.0,3068000000.0,11423000000.0,4847000000.0,3898000000.0
+FISV,"Fiserv, Inc.",Unknown,Unknown,2022,USD,17737000000.0,2530000000.0,9745000000.0,3686000000.0,2913000000.0
+F,Ford Motor Company,United States,Auto Manufacturers,2024,USD,184992000000.0,5879000000.0,15506000000.0,5219000000.0,7233000000.0
+F,Ford Motor Company,United States,Auto Manufacturers,2023,USD,176191000000.0,4347000000.0,16160000000.0,5458000000.0,3967000000.0
+F,Ford Motor Company,United States,Auto Manufacturers,2022,USD,158057000000.0,-1981000000.0,17164000000.0,6276000000.0,-3016000000.0
+FTNT,"Fortinet, Inc.",United States,Software - Infrastructure,2024,USD,5955800000.0,1745200000.0,4798200000.0,1803400000.0,2058500000.0
+FTNT,"Fortinet, Inc.",United States,Software - Infrastructure,2023,USD,5304800000.0,1147800000.0,4067600000.0,1241100000.0,1333700000.0
+FTNT,"Fortinet, Inc.",United States,Software - Infrastructure,2022,USD,4417400000.0,857300000.0,3332500000.0,969600000.0,955500000.0
+FTV,Fortive Corporation,United States,Scientific & Technical Instruments,2024,USD,6231800000.0,832900000.0,3731000000.0,1143500000.0,969600000.0
+FTV,Fortive Corporation,United States,Scientific & Technical Instruments,2023,USD,6065300000.0,865800000.0,3594100000.0,1133700000.0,990800000.0
+FTV,Fortive Corporation,United States,Scientific & Technical Instruments,2022,USD,5825700000.0,755200000.0,3363400000.0,1005300000.0,873500000.0

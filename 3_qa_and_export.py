@@ -38,9 +38,9 @@ def quality_assurance():
     df.to_csv(OUTPUT_FILE, index=False)
     print(f"\nSUCCESS Final dataset saved to {OUTPUT_FILE}")
     print(f"Total Rows: {len(df)}")
-    print("-" * 30)
-    print("Top 5 Rows of Final Submission:")
-    print(df.head())
+    # print("-" * 30)
+    # print("Top 5 Rows of Final Submission:")
+    # print(df.head())
 
 if __name__ == "__main__":
     quality_assurance()

@@ -5,7 +5,7 @@ import os
 
 INPUT_FILE = 'data/sp500_tickers.csv'
 OUTPUT_FILE = 'data/raw_financials_data.csv'
-TEST_LIMIT = None  
+TEST_LIMIT = None # Set to an integer for testing
 
 def extract_financials():
     """
@@ -49,7 +49,13 @@ def extract_financials():
                 continue
 
             # C. ERevenue + Optional KPIs
-            target_rows = ['Total Revenue', 'Net Income', 'Gross Profit']
+            target_rows = [
+                'Total Revenue',    # Mandatory
+                'Net Income',       # Optional 1
+                'Gross Profit',     # Optional 2
+                'Operating Income', # Optional 3
+                'Pretax Income',    # Optional 4
+                ]
             
             available_rows = [r for r in target_rows if r in financials.index]
             df_subset = financials.loc[available_rows]
@@ -69,7 +75,7 @@ def extract_financials():
                     'Country': country,
                     'Industry': industry,
                     'Year': year_str,
-                    'Currency': currency
+                    'Revenue Unit': currency
                 }
                 
                 # Financial Metrics
@@ -80,18 +86,21 @@ def extract_financials():
                 all_data.append(record)
                 
         except Exception as e:
-            print(f"   Error fetching {ticker_symbol}: {e}")
+            print(f"Error fetching {ticker_symbol}: {e}")
         
         # Being polite to the server
-        time.sleep(0.5)
+        time.sleep(0.2)
 
     # 4. Save Results
     if all_data:
         df_results = pd.DataFrame(all_data)
+        base_cols = ['Symbol', 'Company Name', 'Country', 'Industry', 'Year', 'Revenue Unit']
+        metric_cols = [col for col in df_results.columns if col not in base_cols]
+        df_results = df_results[base_cols + metric_cols]
         df_results.to_csv(OUTPUT_FILE, index=False)
         print(f"\nSUCCESS {len(df_results)} rows of data.")
         print(f"Saved to {OUTPUT_FILE}")
-        # print(df_results.head())
+        print(df_results.head())
     else:
         print("\nFAILURE")
 
